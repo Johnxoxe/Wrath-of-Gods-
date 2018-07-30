@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "05ac8bd0-97b3-478a-971a-50cba80060be",
+            "Value": {
+                "id": "e213a08a-a795-47ef-b23f-e7be7f83d566",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/scrIniAds\/scrIniAds.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "09eb460e-42d8-4abb-9606-65cc28dff396",
             "Value": {
                 "id": "20f28a64-a056-41e4-a9b5-52fc07fce7df",
@@ -72,7 +91,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\/rLobby\/rLobby.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -112,6 +131,25 @@
                 ],
                 "resourcePath": "views\/18647cb5-361e-46b4-a5d9-2b279809c971.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "337a0a5d-ecd1-4438-ad1f-e24747560652",
+            "Value": {
+                "id": "045a4e5d-d13c-44b9-b8b4-530d7f0ad055",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oMasterControll\/oMasterControll.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -439,7 +477,7 @@
         }
     ],
     "script_order": [
-        
+        "05ac8bd0-97b3-478a-971a-50cba80060be"
     ],
     "tutorial": ""
 }
