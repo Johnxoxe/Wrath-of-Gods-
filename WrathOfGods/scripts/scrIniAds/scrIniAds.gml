@@ -2,7 +2,7 @@
 GoogleMobileAds_Init("ca-app-pub-3940256099942544/8691691433");
 
 // Banner
-GoogleMobileAds_AddBanner("caa-app-pub-39402560999425444/630097811",GoogleMobileAds_Banner);
+GoogleMobileAds_AddBanner("ca-app-pub-3940256099942544/6300978111",GoogleMobileAds_Banner);
 
 
 var bw = GoogleMobileAds_BannerGetWidth();
