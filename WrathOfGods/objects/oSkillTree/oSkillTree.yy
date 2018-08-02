@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oSkillTree",
     "eventList": [
-        
+        {
+            "id": "9e998bac-fab9-4098-af65-8a7809c8a35f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 13,
+            "m_owner": "33053c19-fe79-48e4-8f7c-306a0de7e124"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
