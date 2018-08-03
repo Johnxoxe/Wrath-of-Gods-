@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oHeal",
     "eventList": [
-        
+        {
+            "id": "4b09b241-d4ed-4969-8be4-cb0d3b1082dc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "e0f1ef23-aaa4-48a2-8d41-fc954f863994"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

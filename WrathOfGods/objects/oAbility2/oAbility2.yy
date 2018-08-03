@@ -5,16 +5,6 @@
     "name": "oAbility2",
     "eventList": [
         {
-            "id": "2c8b75c8-c9cf-4222-8d38-53c0ace3f9cf",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "dbf40d5b-ea71-4b21-bfc2-690dea05b13b"
-        },
-        {
             "id": "2448af36-3e34-4a84-af80-d85957edf1c6",
             "modelName": "GMEvent",
             "mvc": "1.0",

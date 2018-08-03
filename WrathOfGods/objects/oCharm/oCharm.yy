@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oCharm",
     "eventList": [
-        
+        {
+            "id": "1a57dbd5-badc-4087-a4d7-dcfc5a359d30",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "adb22702-0d58-46a8-85df-d44c92ca2c53"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

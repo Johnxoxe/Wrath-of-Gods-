@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oTimeSkip",
     "eventList": [
-        
+        {
+            "id": "52886608-98c8-4b74-b0e9-6f9090db7e43",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "f20079e8-5bc8-4f84-9223-306b9a102f61"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

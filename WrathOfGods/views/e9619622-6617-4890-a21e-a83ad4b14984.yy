@@ -19,7 +19,8 @@
         "6aabcc4f-2928-468b-8921-dda907de0987",
         "c6b2474c-9d92-4dd7-a859-cb8fe48a5e37",
         "e0f1ef23-aaa4-48a2-8d41-fc954f863994",
-        "adb22702-0d58-46a8-85df-d44c92ca2c53"
+        "adb22702-0d58-46a8-85df-d44c92ca2c53",
+        "96af2e41-3958-45c3-bfea-eedee49d7833"
     ],
     "filterType": "GMObject",
     "folderName": "Scroll",

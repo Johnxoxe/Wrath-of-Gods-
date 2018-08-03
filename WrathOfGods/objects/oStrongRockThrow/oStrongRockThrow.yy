@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oStrongRockThrow",
     "eventList": [
-        
+        {
+            "id": "6c248c3d-2cb0-475f-8469-c1a1900275e2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "18f42d3d-7227-4eac-894e-91e3b6950020"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

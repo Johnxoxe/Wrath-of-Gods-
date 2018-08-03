@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oSunBeam",
     "eventList": [
-        
+        {
+            "id": "0c977f4e-bd7f-4b85-a251-f36719cd2a1a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "fb837e29-aa4c-4cfc-a7fc-c223b07e0dba"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oTripleShot",
     "eventList": [
-        
+        {
+            "id": "90bd927e-7917-4ac8-883a-ca0989108a7a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "f1fc83d8-1669-4690-9e19-bfaaa1772c4e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

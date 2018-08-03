@@ -1,15 +1,16 @@
- if (argument0 = 1 ){ image_index = sStrongRockThrow; } 
-else if (argument0 = 2 ){ image_index = sBiggerRockThrow; } 
-else if (argument0 = 3 ){ image_index = sTripleShot; } 
-else if (argument0 = 4 ){ image_index = sLifeDrain; } 
-else if (argument0 = 5 ){ image_index = sTsunami; } 
-else if (argument0 = 6 ){ image_index = sOctaShot; } 
-else if (argument0 = 7 ){ image_index = sTimeSkip; } 
-else if (argument0 = 8 ){ image_index = sMeteorShower; } 
-else if (argument0 = 9 ){ image_index = sSunBeam; } 
-else if (argument0 = 10 ){image_index = sSwordRain; } 
-else if (argument0 = 11 ){image_index = sLightingBolt; } 
-else if (argument0 = 12 ){image_index = sMeteor; } 
-else if (argument0 = 13 ){image_index = sSpear; } 
-else if (argument0 = 14 ){image_index = sHeal; } 
-else if (argument0 = 15 ){image_index = sCharm; } 
+
+ if (argument0 = 1 ){ sprite_index = sStrongRockThrow;  scrScaleAbi(); } 
+else if (argument0 = 2 ){ sprite_index = sBiggerRockThrow; scrScaleAbi();} 
+else if (argument0 = 3 ){ sprite_index = sTripleShot; scrScaleAbi(); } 
+else if (argument0 = 4 ){ sprite_index = sLifeDrain; scrScaleAbi(); } 
+else if (argument0 = 5 ){ sprite_index = sTsunami; scrScaleAbi(); } 
+else if (argument0 = 6 ){ sprite_index = sOctaShot; scrScaleAbi(); } 
+else if (argument0 = 7 ){ sprite_index = sTimeSkip; scrScaleAbi(); } 
+else if (argument0 = 8 ){ sprite_index = sMeteorShower; scrScaleAbi(); } 
+else if (argument0 = 9 ){ sprite_index = sSunBeam; scrScaleAbi(); } 
+else if (argument0 = 10 ){sprite_index = sSwordRain; scrScaleAbi(); } 
+else if (argument0 = 11 ){sprite_index = sLightingBolt; scrScaleAbi(); } 
+else if (argument0 = 12 ){sprite_index = sMeteor; scrScaleAbi(); } 
+else if (argument0 = 13 ){sprite_index = sSpear; scrScaleAbi(); } 
+else if (argument0 = 14 ){sprite_index = sHeal; scrScaleAbi(); } 
+else if (argument0 = 15 ){sprite_index = sCharm; scrScaleAbi(); } 

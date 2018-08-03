@@ -22,7 +22,9 @@ drag_offsetX = 0;
 drag = false;
 
 // Row limit 
-rl = 430;
+rl = 1420;
+
+tapped = 0 ;
 
 
 

@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oMeteorShower",
     "eventList": [
-        
+        {
+            "id": "a1f5d0a2-b8b6-4a08-88e4-51302c926893",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "bd2aeedd-bfb4-4389-8e1e-8340daf93a8e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

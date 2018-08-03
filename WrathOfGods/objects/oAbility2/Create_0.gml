@@ -1,1 +1,0 @@
-arg = global.ability2;

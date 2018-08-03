@@ -1,3 +1,3 @@
-arg = global.ability1;
-if (arg = 0 ){ image_index = sAbility1; } 
-scrSelectedAbilityImage(arg); 
+
+if (global.ability1 = 0 ){ sprite_index = sAbility1;  image_xscale = .8; image_yscale = .8; } 
+scrSelectedAbilityImage(global.ability1); 

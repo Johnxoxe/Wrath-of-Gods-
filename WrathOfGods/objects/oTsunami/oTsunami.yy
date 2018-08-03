@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oTsunami",
     "eventList": [
-        
+        {
+            "id": "15abbb86-c3e2-4787-bc19-611a352212ae",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "30786058-f504-4695-bdd1-76801302d08c"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

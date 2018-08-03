@@ -1,0 +1,2 @@
+oAbilitiesController.selectedAbility = tapped;
+scrPopSet();

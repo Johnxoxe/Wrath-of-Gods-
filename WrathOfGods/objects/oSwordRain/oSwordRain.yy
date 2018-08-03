@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oSwordRain",
     "eventList": [
-        
+        {
+            "id": "596f1552-e6bb-4fad-947c-6d806f7d4ebf",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "ab4f1e1b-6195-468a-83ce-b485d869fec5"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

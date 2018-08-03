@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oLifeDrain",
     "eventList": [
-        
+        {
+            "id": "e40640be-7629-49d4-80f0-9c2ec490c2fc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "881ca604-c40b-4fbb-b646-edd833985aad"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

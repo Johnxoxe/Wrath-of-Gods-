@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oOctaShot",
     "eventList": [
-        
+        {
+            "id": "804e1b84-d309-449a-ac70-7a5d4986c60c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "02af1c58-b797-4e4e-9da7-feff3fe28aaf"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
