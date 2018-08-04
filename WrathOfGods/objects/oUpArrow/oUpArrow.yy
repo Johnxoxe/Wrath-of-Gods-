@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oUpArrow",
     "eventList": [
-        
+        {
+            "id": "c989ca0f-92af-47ab-a754-c1052f407e63",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 13,
+            "m_owner": "dcd2fdae-363c-403f-bb24-46dfc0cb0b63"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

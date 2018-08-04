@@ -1,4 +1,4 @@
-var textDistance = 61;
+var textDistance = 68;
 if (argument0 = 1 ){ draw_text(x,y+textDistance, "Strong Rock"); } 
 if (argument0 = 2 ){ draw_text(x,y+textDistance, "Bigger Rock"); } 
 if (argument0 = 3 ){ draw_text(x,y+textDistance, "Triple Shot"); }
