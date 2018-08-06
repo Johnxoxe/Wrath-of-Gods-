@@ -11,9 +11,7 @@ dspw = global.cgvw;
 top_limit = dsph*.5;
 bot_limit = dsph*.8;
 
-
-
-// Children positions 
+// Children positions
 //y = dsph*.15;
 y = dsph*.65;
 
@@ -21,10 +19,7 @@ y = dsph*.65;
 drag_offsetX = 0;
 drag = false;
 
-// Row limit 
+// Row limit
 rl = 1420;
 
-tapped = 0 ;
-
-
-
+tapped = 0;

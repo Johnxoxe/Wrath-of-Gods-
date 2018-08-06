@@ -32,7 +32,10 @@ if (keyboard_check_pressed(vk_up)){
 	room_restart();
 }
 
-
+if (keyboard_check_pressed(vk_control)){
+	if (deBug = false){ deBug = true; }
+	else { deBug = false;}
+}
 /*
 
 var ViewWidth,ViewHeight;
