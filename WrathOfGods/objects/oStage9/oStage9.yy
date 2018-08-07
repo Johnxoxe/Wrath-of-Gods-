@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oStage9",
     "eventList": [
-        
+        {
+            "id": "352f6b3c-be88-4edb-b070-f539367c03a9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9420dba3-79c8-4f81-93ee-2effaf423858"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

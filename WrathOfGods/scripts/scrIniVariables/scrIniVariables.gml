@@ -8,6 +8,12 @@ for (var i = 0; i<=15; i++;){
 	abilityLevel[i] = ini_read_real("Variables","abilityLevel"+string(i), 0);
 }
 
+for (var j = 0; j<=50; j++;){
+	for (var z = 0; z<=2; z++;){
+		stageRate[j,z] = ini_read_real("Variables","abilityLevel"+string(j)+","+string(z), 0);
+	}
+}
+
 ini_close();
 
 //for (var i = 0; i<=15; i++;){
