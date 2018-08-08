@@ -1,4 +1,4 @@
-if (oAbilitiesController.selectedAbility = tapped){
+if (oMasterControll.selectedAbility = tapped){
 	
 	/// Ability 1 
 	oAbility1Pop.image_alpha = 0; 

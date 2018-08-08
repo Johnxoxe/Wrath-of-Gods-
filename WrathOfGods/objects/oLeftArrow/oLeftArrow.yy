@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oLeftArrow",
     "eventList": [
-        
+        {
+            "id": "b7f84ee5-1547-496f-b1d5-a2f183dcedd2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "ae0dadb2-f50a-432c-bfb2-5916bf71dd95"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

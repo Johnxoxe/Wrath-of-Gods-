@@ -1,6 +1,6 @@
 
 
-if (oAbilitiesController.selectedAbility = tapped){
+if (oMasterControll.selectedAbility = tapped){
 	image_index = 1;
 	
 } else {

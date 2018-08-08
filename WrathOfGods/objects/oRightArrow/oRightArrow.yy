@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oRightArrow",
     "eventList": [
-        
+        {
+            "id": "3191b0a5-6025-4df4-9698-8775bc8803b5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "aa8b05b1-1a4e-47b2-8f79-f480cca45ffc"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

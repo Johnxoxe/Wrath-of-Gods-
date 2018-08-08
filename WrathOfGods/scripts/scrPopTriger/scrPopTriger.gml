@@ -1,4 +1,4 @@
-if (oAbilitiesController.selectedAbility = tapped){
+if (oMasterControll.selectedAbility = tapped){
 
 	var drag_speed = .1; 
 

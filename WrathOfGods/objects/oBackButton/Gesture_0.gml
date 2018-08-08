@@ -1,1 +1,1 @@
-room_goto("rLobby");
+room_goto(rLobby);
