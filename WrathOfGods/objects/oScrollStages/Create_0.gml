@@ -24,3 +24,5 @@ drag = false;
 rl = 7060;
 
 tapped = 0;
+
+oMasterControll.stageRate[1,1] = 1; 

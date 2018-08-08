@@ -1,1 +1,0 @@
-stageSelected = 0; 

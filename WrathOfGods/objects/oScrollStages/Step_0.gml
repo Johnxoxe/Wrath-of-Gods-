@@ -1,4 +1,4 @@
-if ( oStageController.stageSelected = tapped ){
+if ( oMasterControll.stageSelected = tapped ){
 	image_index = 1;
 } else {
 	image_index = 0; 
