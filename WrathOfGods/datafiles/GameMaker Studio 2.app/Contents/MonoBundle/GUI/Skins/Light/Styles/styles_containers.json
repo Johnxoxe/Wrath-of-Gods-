@@ -1,0 +1,95 @@
+{	
+	"text_editor_status_bar": {
+		colour: "#ffffffff" 
+	},
+	
+	"text_editor_intellisense_pos_label": {
+		colour: "#FF000000"
+	},
+	
+	"text_editor_intellisense_function_label": {
+		colour: "#FF000000"
+	},
+	
+    "texteditor_codecomplete_style":{
+        cell_colour: "#ffe5e5e5"
+    },
+
+    "text_editor_codecomplete_label": {
+		left: "4dpi_px",
+        colour: "#ff000000"
+	},
+
+	"add_tab_button_up": {
+		up_tint: "#FFFFFFFF", 
+		mouseover_up_tint: "#FFFFFFFF", 
+		mouseover_down_focused_tint: "#FFFFFFFF" 
+	},
+		
+	"tab_stroke_frame": {
+		colour: "#FF5B9D03"
+	},
+		
+	"code_tab_stroke_frame": {
+		colour: "#FF5B9D03"
+	},
+	
+	"code_tab_item_label": {
+		colour: "#FF696969" 
+	},
+	
+	"active_code_tab_item_label": {
+		colour: "#FF000000"
+	},
+		
+	"tab_item_label": {
+		colour: "#FF696969" 
+	},
+	
+	"active_tab_item_label": {
+		colour: "#FF000000"
+	},
+
+	"active_fixed_tab_item_label": {
+		colour: "#FF000000"
+	},
+		
+	"tab_control": {
+		colour: "#FFe7e7e7"
+	},
+	
+	"fullscreen_code_tab_control": {
+		colour: "#FFF2F2F2"
+	},
+
+		"desktop_tab_control": {
+		colour: "#FFe7e7e7", 
+	},
+	
+	"tab_control_client_panel": {
+		colour: "#FFF2F2F2"
+	},
+	
+	"tab_close_button_up": {
+		up_tint: "#FFFFFFFF", 
+		down_tint: "#FF909090", 
+		mouseover_up_tint: "#FFFFFFFF", 
+		mouseover_down_tint: "#FF909090", 
+		up_focused_tint: "#FFFFFFFF", 
+		down_focused_tint: "#FF909090", 
+		mouseover_up_focused_tint: "#FFFFFFFF", 
+		mouseover_down_focused_tint: "#FF909090"
+	},
+			
+	"text_editor_panel": {
+		colour: "#FFF2F2F2",
+        cursor_image:"IBarBlack",
+        fold_line_colour: "#ff909090",
+        fold_line_hi_colour: "#ff000000",
+        fold_margin_colour: "#ffeae6e5"
+	},
+		
+	"text_editor_event_tab_label": {
+		colour: "#FF696969"
+	}
+}

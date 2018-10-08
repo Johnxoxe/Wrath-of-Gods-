@@ -1,0 +1,13 @@
+﻿{
+	"workspace_chain": {		
+		colour: "#00000000"
+	},
+
+	"workspace_preferences": {
+		link_colour: "#995b9d03"
+	},
+
+	"workspace_chain_splitter": {
+		colour: "#77ffffff"
+	}
+}

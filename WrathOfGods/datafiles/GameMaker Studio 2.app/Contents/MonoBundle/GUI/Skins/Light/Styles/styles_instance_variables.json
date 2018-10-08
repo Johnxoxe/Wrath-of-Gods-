@@ -1,0 +1,9 @@
+{
+	"object_properties_label_not_overridden": {
+		colour: "#ff606060"
+	},
+	
+	"object_properties_label_overridden": {
+		colour: "#FF000000"
+	}
+}

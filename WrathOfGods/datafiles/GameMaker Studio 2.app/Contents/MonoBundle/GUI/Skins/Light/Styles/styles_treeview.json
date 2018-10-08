@@ -1,0 +1,19 @@
+﻿{
+	"gadget_treeview": {
+		selection_colour: "#FFCCAA9C",
+		drop_target_colour: "#FFFFD5C3",
+		drop_indicator_colour: "#FFFFEBE2"
+    },
+
+    "resourcetree_label_default": {
+    	colour: "#FF303030"
+    },
+
+    "resourcetree_colours": 
+	{	background_default: "#00000000"
+	,	icon_default: "#FF000000"
+
+	,	horizontal_separator: "#FF3E3E3E"
+	,	treeline: "#FF3E3E3E"
+	}
+}

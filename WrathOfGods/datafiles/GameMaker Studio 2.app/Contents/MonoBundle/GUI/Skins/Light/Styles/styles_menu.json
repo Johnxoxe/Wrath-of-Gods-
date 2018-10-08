@@ -1,0 +1,98 @@
+{
+   	
+    "context_menu_entries": {
+		colour: "#00000000"
+	},
+
+	"context_menu_margin": {
+		colour: "#FFFFFFFF" 
+	},
+
+	"menu_entry": {
+		up_tint: "#00000000"
+	},
+	
+		
+	"menu_label": {
+		colour: "#ff000000"
+	},
+	
+	"menu_label_inactive": {
+		colour: "#FF979797"
+	},
+	
+	"menu_icon": {
+		colour: "#ffffffff"
+	},
+	
+	"menu_icon_inactive": {
+		colour: "#88ffffff"
+	},
+
+	"menu_entry_keycombo": {
+		colour: "#ff404040" 
+	},
+	
+	"menu_entry_keycombo_inactive": {
+		colour: "#FF979797" 
+	},
+	
+	"menu_entry_checkbox": {
+		colour: "#ffffffff"
+	},
+	
+	"menu_entry_checkbox_highlighted": {
+		colour: "#ffffcaca"
+	},
+	
+	"menu_entry_checkbox_tick": {
+		colour: "#ffffffff"
+	},
+
+	"menu_entry_checkbox_untick": {
+		colour: "#00000000"
+	},
+	
+	"menu_entry_checkbox_inactive": {
+		colour: "#ffffffff"
+	},
+	
+	"menu_entry_checkbox_inactive_highlighted": {
+		colour: "#ffcccccc"
+	},
+	
+	"menu_entry_checkbox_inactive_untick": {
+		colour: "#00000000"
+	},
+	
+	"sub_menu_arrow": {
+		colour: "#FFFFFFFF" 
+	},
+	
+	"sub_menu_arrow_inactive": {
+		colour: "#FF333333" 
+	},
+	
+	"menu_bar": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"menu_bar_entry": {
+		colour: "#FFFFFFFF",
+		up_tint: "#00FFFFFF", 
+		down_tint: "#FFFFFFFF", 
+		mouseover_up_tint: "#00FFFFFF",
+		mouseover_down_tint: "#FFFFFFFF", 
+		up_focused_tint: "#00FFFFFF", 
+		down_focused_tint: "#FFFFFFFF", 
+		mouseover_up_focused_tint: "#00FFFFFF", 
+		mouseover_down_focused_tint: "#FFFFFFFF"
+	},
+	
+	
+	"ide_toolbar_frame": {
+		colour: "#FFFFFFFF"
+	},
+
+
+}

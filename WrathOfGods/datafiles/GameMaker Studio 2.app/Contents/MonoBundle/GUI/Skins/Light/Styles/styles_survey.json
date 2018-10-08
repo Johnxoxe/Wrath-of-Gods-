@@ -1,0 +1,56 @@
+{
+	
+
+	"survey_question_title": {
+		font_size: 13,
+		colour: "#FF303030"
+	},
+	
+	
+	"survey_question_text": {
+		font_size: 9,
+		colour: "#FF303030"
+	},
+	
+	"survey_question_answered": {
+		colour: "#FFC8C8C8"
+	},
+	
+	"survey_question_unanswered": {
+		colour: "#FF3F43A1"
+	},
+	
+
+
+
+	"survey_comment": {
+        text_colour: "#ff686868",
+        colour: "#FFffffff"
+	},	
+	"survey_comment_not_applicable": {
+        text_colour: "#FFA7A7A7",
+        colour: "#FFBABABA"
+	},	
+
+
+  
+
+
+	"survey_question_category": {
+		font_size: 11,
+        colour: "#FFF1F0F5"
+	},
+	"question_applicable": {
+		colour: "#FF938A86"
+	},
+
+
+
+
+	"survey_question_not_applicable_category": {
+		colour: "#FF929292"
+	},	
+	"question_not_applicable": {
+		colour: "#FFBABABA"
+	}
+}

@@ -1,0 +1,290 @@
+{
+	"sp_grid_background": {
+		colour: "#FFdddddd"
+	},
+	
+	"sp_tooltip_arrow": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"sp_tooltip_caption": {
+		colour: "#FFFFFFFF"
+	},
+
+	"sp_tooltip_status": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"sp_tooltip_description": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"sp_scrollbar_left_aligned": {
+		colour: "#FFb1b1b1"
+	},
+	
+	"sp_scrollbar": {
+		colour: "#FFb1b1b1"
+	},
+	
+	"sp_scrollbar_slider": {
+		colour: "#FFb1b1b1"
+	},
+	
+	"sp_scrollbar_slider_thumb": {
+		up_tint: "#FF6f6f6f", 
+		down_tint: "#FF4c4c4c", 
+		mouseover_up_tint: "#FF5d5d5d", 
+		mouseover_up_focused_tint: "#FF5d5d5d", 
+		mouseover_down_tint: "#FF4c4c4c", 
+		mouseover_down_focused_tint: "#FF4c4c4c", 
+		up_focused_tint: "#FF6f6f6f", 
+		down_focused_tint: "#FF6f6f6f"
+	},
+	
+	"sp_scrollbar_slider_bar": {
+		colour: "#FFb1b1b1"
+	},
+	
+	"sp_scrollbar_slider_bar_fill": {
+		colour: "#00000000"
+	},
+	
+	"sp_scrollbar_slider_bar_not_focused": {
+		colour: "#00000000"
+	},
+	
+	"sp_back_button": {
+		up_tint: "#00000000",
+		down_tint: "#22FFFFFF",
+		mouseover_up_tint: "#11FFFFFF", 
+		mouseover_up_focused_tint: "#11FFFFFF", 
+		mouseover_down_tint: "#22FFFFFF", 
+		mouseover_down_focused_tint: "#22FFFFFF", 
+		up_focused_tint: "#00000000", 
+		down_focused_tint: "#22FFFFFF"
+	},
+	
+	"sp_title_stack_label": {
+		colour: "#FF000000"
+	},
+	
+	"sp_title_stack_label_first": {
+		colour: "#FF000000"
+	},
+	
+	"sp_title_stack_separator": {
+		colour: "#FF5B9D03"
+	},
+	
+	"sp_title_stack_separator_first": {
+		colour: "#FF5B9D03"
+	},
+	
+	"sp_title_stack_red_separator_first": {
+		colour: "#FF8A7DCD"
+	},
+	
+	"sp_title_stack_red_separator": {
+		colour: "#FF8A7DCD"
+	},
+	
+	"sp_button": {
+		up_tint: "#55000000", 
+		down_tint: "#55000000", 
+		mouseover_up_tint: "#55000000", 
+		mouseover_up_focused_tint: "#55000000", 
+		mouseover_down_tint: "#55000000", 
+		mouseover_down_focused_tint: "#55000000", 
+		up_focused_tint: "#55000000", 
+		down_focused_tint: "#55000000"
+	},
+	
+	"sp_button_anim_gadget": {
+		colour: "#66FFFFFF"
+	},
+	
+	"sp_scrollpanel_banner_overlay": {
+		colour: "#88000000"
+	},
+	
+	"sp_banner_slide_button": {
+		up_tint: "#55000000", 
+		down_tint: "#55000000", 
+		mouseover_up_tint: "#88000000", 
+		mouseover_up_focused_tint: "#88000000", 
+		mouseover_down_tint: "#88000000", 
+		mouseover_down_focused_tint: "#88000000", 
+		up_focused_tint: "#55000000", 
+		down_focused_tint: "#55000000"
+	},
+	
+	"sp_banner_slide_button_active": {
+		up_tint: "#55A08B83", 
+		down_tint: "#55A08B83", 
+		mouseover_up_tint: "#88A08B83", 
+		mouseover_up_focused_tint: "#88A08B83", 
+		mouseover_down_tint: "#88A08B83", 
+		mouseover_down_focused_tint: "#88A08B83", 
+		up_focused_tint: "#55A08B83", 
+		down_focused_tint: "#55A08B83"
+	},
+
+	"sp_title_stack_label_link": {
+		colour: "#FF000000"
+	},
+	
+	"sp_scrollpanel_project_item": {
+		colour: "#FFe7e7e7"
+	},
+	
+	"sp_scrollpanel_project_item_leave": {
+		colour: "#FFe7e7e7"
+	},
+	
+	"sp_scrollpanel_project_item_hover": {
+		colour: "#FFcccccc"
+	},
+	
+	"sp_label_project_title": {
+		colour: "#FF777777"
+	},
+	
+	"sp_label_project_title_hover": {
+		colour: "#FF000000"
+	},
+	
+	"sp_label_project_path": {
+		colour: "#FF777777"
+	},
+	
+	"sp_label_project_path_hover": {
+		colour: "#FF222222"
+	},
+	
+	"sp_demo_button": {
+		up_tint: "#88000000", 
+		down_tint: "#88000000", 
+		mouseover_up_tint: "#88000000", 
+		mouseover_up_focused_tint: "#88000000", 
+		mouseover_down_tint: "#88000000", 
+		mouseover_down_focused_tint: "#88000000", 
+		up_focused_tint: "#88000000", 
+		down_focused_tint: "#88000000"
+	},
+	
+	"sp_demo_button_mouse_leave": {
+		up_tint: "#88000000", 
+		down_tint: "#88000000", 
+		mouseover_up_tint: "#88000000", 
+		mouseover_up_focused_tint: "#88000000", 
+		mouseover_down_tint: "#88000000", 
+		mouseover_down_focused_tint: "#88000000", 
+		up_focused_tint: "#88000000", 
+		down_focused_tint: "#88000000"
+	},
+	
+	"sp_demo_button_mouse_enter": {
+		up_tint: "#FFFFFFFF", 
+		down_tint: "#FFFFFFFF", 
+		mouseover_up_tint: "#FFFFFFFF", 
+		mouseover_up_focused_tint: "#FFFFFFFF", 
+		mouseover_down_tint: "#FFFFFFFF", 
+		mouseover_down_focused_tint: "#FFFFFFFF", 
+		up_focused_tint: "#FFFFFFFF", 
+		down_focused_tint: "#FFFFFFFF"
+	},
+	
+	"sp_demo_button_background": {
+		colour: "#88dddddd"
+	},
+
+	"sp_label_yoyogames": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"sp_demo_button_background_installed": {
+		colour: "#FF6F1E31"
+	},
+	
+	"sp_demo_button_background_inprogress": {
+		colour: "#FF6F1E31"
+	},
+	
+	"sp_demo_button_background_completed": {
+		colour: "#FF6F1E31"
+	},
+	
+	"sp_demo_button_background_hover": {
+		colour: "#88dddddd"
+	},
+	
+	"sp_demo_button_label": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"sp_demo_progressbar_base": {
+		colour: "#00000000"
+	},
+	
+	"sp_demo_progressbar_bar": {
+		background_colour: "#00000000", 
+		colour: "#FFFFFFFF"
+	},
+	
+	"sp_demo_progressbar_frame": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"sp_demo_button_left_right_base": {
+		icon_colour: "#FFFFFFFF", 
+		up_tint: "#AAFFFFFF", 
+		down_tint: "#AAFFFFFF", 
+		mouseover_up_tint: "#AAFFFFFF", 
+		mouseover_up_focused_tint: "#AAFFFFFF", 
+		mouseover_down_tint: "#AAFFFFFF", 
+		mouseover_down_focused_tint: "#AAFFFFFF", 
+		up_focused_tint: "#AAFFFFFF", 
+		down_focused_tint: "#AAFFFFFF"
+	},
+	
+	"sp_demo_button_trash_button_base": {
+		icon_colour: "#00000000",
+		up_tint: "#00FFFFFF", 
+		down_tint: "#00FFFFFF", 
+		mouseover_up_tint: "#00FFFFFF", 
+		mouseover_up_focused_tint: "#00FFFFFF", 
+		mouseover_down_tint: "#00FFFFFF", 
+		mouseover_down_focused_tint: "#00FFFFFF", 
+		up_focused_tint: "#00FFFFFF", 
+		down_focused_tint: "#00FFFFFF"
+	},
+	
+	"sp_demo_button_trash_button": {
+		icon_colour: "#00000000"
+	},
+	
+	"sp_demo_button_trash_button_hover": {
+		icon_colour: "#FFFFFFFF"
+	},
+	
+	"sp_menu_button": {
+		icon_colour: "#00000000",
+		up_tint: "#00000000", 
+		down_tint: "#22FFFFFF",
+		mouseover_up_tint: "#11FFFFFF", 
+		mouseover_up_focused_tint: "#11FFFFFF", 
+		mouseover_down_tint: "#22FFFFFF", 
+		mouseover_down_focused_tint: "#22FFFFFF", 
+		up_focused_tint: "#00000000", 
+		down_focused_tint: "#22FFFFFF"
+	},
+	
+	"sp_tooltip_separator": {
+		colour: "#FF613334"
+	},
+	
+	"sp_hr": {
+		colour: "#AAFFFFFF"
+	}
+}

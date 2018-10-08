@@ -1,0 +1,87 @@
+﻿{
+	"dnd_grid": {
+		dock_area_color: "#FFFFFFFF"
+	},
+
+	"dnd_story_entry": {		
+		applyto_color: "#FF9749A3",
+		line_opacity: "200",
+		selected_opacity_modifier: "2"
+	},
+
+	"dnd_favorites_icon": {
+		colour: "#FFFFFFFF"
+	},
+
+	"dnd_favorites_icon_hover": {
+		colour: "#FF2222FF"
+	},
+
+	"dnd_toolbox_category_label": {
+		colour: "#FF000000"		
+	},
+
+	"dnd_toolbox_searchbar": {
+		colour: "#ffa5a5a5",		
+		caret: "IBarBlack",
+		override_color: "#70000000",
+		selection_color: "#ffffd5c3"
+	},
+
+	"dnd_toolbox": {		
+		colour: "#ffffffff"		
+	},
+
+	"dnd_toolbox_chrome_label": {
+		colour: "#ff000000"		
+	},
+
+	"dnd_node_window": {
+		story_color: "#AA000000",
+		notice_color: "#DD0000FE"
+	},
+
+	"dnd_node_window_ghost": {
+		color_overlay: "#66ffffff",
+		target_overlay: "#40FF8080"		
+	},
+
+	"dnd_workspace": {
+		chain_color_root: "#ff818181",
+		chain_color_true: "#ff236f1d",
+		chain_color_false: "#ff2b2bc6",
+		selection_rect_color: "#33555555"
+	},
+	
+	"dnd_node_titlebar": {
+		applyto_highlight: "#FF988E86"
+	},
+
+	"dnd_node_titlebar_number": {
+		colour: "#ff9a9a9a"
+	},
+
+	"dnd_node_titlebar_number_selected": {
+		colour: "#ffffffff"
+	},
+
+	"dnd_node_titlebar_title": {
+		colour: "#ffffffff"
+	},
+
+	"dnd_node_titlebar_title_selected": {
+		colour: "#ffffffff"
+	},
+
+	"dnd_node_titlebar_title_no_collapse_selected": {
+		colour: "#ffffffff"
+	},
+	
+	"dnd_category_label": {
+		colour: "#ff000000"
+	},
+	
+	"dnd_category_label_selected": {
+		colour: "#FF000000"
+	}
+}

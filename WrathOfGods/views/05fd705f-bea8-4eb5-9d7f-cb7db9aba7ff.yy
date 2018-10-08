@@ -1,0 +1,33 @@
+{
+    "id": "05fd705f-bea8-4eb5-9d7f-cb7db9aba7ff",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "05fd705f-bea8-4eb5-9d7f-cb7db9aba7ff",
+    "children": [
+        "dd9f2381-9cbb-4031-af4e-dbfc193f3a85",
+        "6fd08142-4e9f-47bd-b101-7f3f33c1b79a",
+        "79409385-4520-4bde-820a-dee4744d683a",
+        "159c16f5-a4c7-4745-b744-f743c130c17c",
+        "b3cc7fb2-639e-47b8-8893-da33281bb776",
+        "a154c566-cc18-4e32-b50e-0f5ead8d0cac",
+        "a4c2a79b-00c2-4010-8703-cc57f8494bdd",
+        "242f920c-831d-4b46-8c05-0650ffad8290",
+        "353abf4c-addf-4820-8d0d-8710dd8af542",
+        "836bb53d-0653-4ab0-9934-77fcead629ff",
+        "afadb088-ed05-43aa-a77e-26205da455eb",
+        "c0df33a1-163b-4190-a606-700edd5b44a1",
+        "c8944d67-9240-4302-884d-16201f031107",
+        "60917c0f-751a-46e9-a583-9059b21ba1c4",
+        "c7db0ac8-98dc-4347-ac11-9de04d7dbd9d",
+        "16754dd7-afc1-4637-a70e-6091529c4395",
+        "6a57c5f5-40a3-4eb4-9dda-5923df5e191e",
+        "15cffeef-5fc9-46d2-ab05-70de039d4427",
+        "52a01a6b-1499-4f1a-a924-8b83ffa49ac7",
+        "9211bded-c6b9-46a1-91f6-eb4865d1666c",
+        "2bc10e04-7d5e-4728-aed9-fcc689a583f9"
+    ],
+    "filterType": "GMIncludedFile",
+    "folderName": "ToolIcons",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

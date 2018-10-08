@@ -1,0 +1,27 @@
+{
+	"group_box": {
+		colour: "#FFFFFFFF"
+	},
+
+	group_label: {
+		colour: "#FF000000"
+	},
+
+  group_label_wrapped: {
+		colour: "#FF000000"
+	},
+
+	group_box_label_with_icon: {
+		colour: "#FFFFFFFF"
+	},
+  
+	horizontal_separator_label: {
+		colour: "#ff000000"
+	},
+	vertical_separator: {
+		colour: "#ffb5b5b5"
+	},
+	horizontal_separator: {
+		colour: "#ffb5b5b5"
+	}
+}

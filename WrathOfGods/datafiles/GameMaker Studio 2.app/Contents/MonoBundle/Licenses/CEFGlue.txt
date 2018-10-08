@@ -1,0 +1,12 @@
+Xilium.CefGlue
+https://bitbucket.org/xilium/xilium.cefglue/wiki/Home
+
+
+Xilium.CefGlue is a .NET/Mono binding for The Chromium Embedded Framework (CEF) by Marshall A. Greenblatt.
+This project supports CEF version 3.
+CEF version 1 supported by other project with similar name CefGlue.
+To get more info checkout Xilium.CefGlue/3 & CefGlue/1 topic, CefGlue forum, and CefGlue discussion group.
+Current Xilium's CEF3 builds available on project website.
+
+Licensing
+This project is licensed under MIT License with portions of code licensed under New BSD License.

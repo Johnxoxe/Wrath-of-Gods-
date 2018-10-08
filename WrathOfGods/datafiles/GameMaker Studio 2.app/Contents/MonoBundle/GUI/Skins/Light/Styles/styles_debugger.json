@@ -1,0 +1,29 @@
+{
+	"debugger_buffer_view": {
+		column_color: "#ffA7B2B8",
+		text_color: "#FF000000"
+	},
+
+	"debugger_graph_view": {
+		memory_color: "#FF00A600",
+		fps_color: "#FFE09070",
+		color_user_event: "#FF262626"
+	},
+
+	"debugger_graph_help": {
+		colour: "#A6FFFFFF"
+	},
+	
+	"debugger_texture_tooltip": {
+		text_color: "#FF000000"
+	},
+
+	"debugger_profiling_toggle_button": {
+		mouseover_up_tint: "#FF00FF00",
+		mouseover_up_focused_tint: "#FF00FF00",
+		down_tint: "#FF00FF00",
+		mouseover_down_tint: "#FF0000FF",
+		down_focused_tint: "#FF00FF00",
+		mouseover_down_focused_tint: "#FF0000FF"
+	}
+}

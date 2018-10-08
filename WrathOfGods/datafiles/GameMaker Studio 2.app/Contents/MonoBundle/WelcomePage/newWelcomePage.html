@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>new welcome screen</title>
+    <meta charset="utf-8" />
+    <link href='icomoon.css' rel='stylesheet' type='text/css'>    
+    <link href='welcomePage.css' rel='stylesheet' type='text/css'> 
+    <script type="text/javascript">
+        //
+        // BM : Change these links to update the videos
+        //
+        var videoLinks = ["https://www.youtube.com/embed/ubvrKQlI_1A", "https://www.youtube.com/embed/videoseries?list=PLhIbBGhnxj5Jx3eGJsyparJ47BxlyUAub&enablejsapi=1&autoplay=0"];
+        var videoOptions = "?theme=dark&keyboard=1&autohide=1&iv_load_policy=3&rel=0&showinfo=0";
+        var pageImages = ["getting_started.png", "new_features.png", "access_all_areas.png"];
+        var pageText = []; // BM : Filled in during initialisation
+        //
+        // BM : Element cache
+        //
+        var pips = [];
+        var videoIframe = null;
+        var arrowLeft = null;
+        var arrowRight = null;
+        var pageTextElement = null;
+        var videoFrame = null;
+        var welcomeImage = null;
+        var footerCheckbox = null;
+        var footerDontShowTextElement = null;
+        var footerCloseButtonElement = null;
+        var footerCloseElement = null;
+        var pageLinks = null;
+        //
+        //
+        //
+        var currentPage = 0;
+        var fullscreen = false;
+        var startStrobeTimeout;
+        //
+        //
+        //
+        function setPage(pageNumber) {
+            //
+            // BM : Reset strobing
+            //
+            arrowRight.classList.remove("rStrobe");
+            footerCloseElement.classList.remove("rStrobe");
+            clearTimeout(startStrobeTimeout);            
+            //
+            // BM : Clear page indicator
+            //
+            pips[currentPage].classList.remove("rNavPipFull");
+            //
+            // BM : Change page
+            //            
+            currentPage = pageNumber;
+            //
+            // BM : Update page content
+            //
+            pageTextElement.innerHTML = pageText[currentPage];
+            welcomeImage.src = pageImages[currentPage];
+            //
+            // BM : Set current page indicator
+            //
+            pips[currentPage].classList.add("rNavPipFull");
+            //
+            // BM : Update arrow opacity
+            //
+            arrowLeft.style.opacity = 1.0;
+            arrowLeft.style.cursor = "pointer";
+            arrowRight.style.opacity = 1.0;
+            arrowRight.style.cursor = "pointer";
+            if (currentPage == 0)
+            {
+                arrowLeft.style.opacity = 0;
+                arrowLeft.style.cursor = "default";
+                startStrobeTimeout = setTimeout(function(){
+                    arrowRight.classList.add("rStrobe");
+                }, 4000);
+            }
+            else if (currentPage == 1)
+            {
+                startStrobeTimeout = setTimeout(function(){
+                    arrowRight.classList.add("rStrobe");
+                }, 4000);
+            }
+            else if (currentPage == 2)
+            {
+                arrowRight.style.opacity = 0;
+                arrowRight.style.cursor = "default";       
+                startStrobeTimeout = setTimeout(function(){
+                    footerCloseElement.classList.add("rStrobe");
+                }, 4000);
+            }            
+            
+            //
+            // BM : Update video
+            //
+            if (currentPage < 2) {
+                pageLinks.style.visibility = "hidden";
+                pageLinks.height = "0px";
+                videoFrame.height = "203px";
+                videoIframe.height = "100%";
+                videoFrame.style.visibility = "visible";
+                videoIframe.src = videoLinks[currentPage] + videoOptions;
+            }
+            else {
+                pageLinks.style.visibility = "visible";
+                pageLinks.height = "205px";
+                videoFrame.height = "0px";
+                videoFrame.style.visibility = "hidden";
+                videoIframe.src = "";
+            }
+            //
+            // BM : Update footer
+            //
+            if (currentPage == 2 && footerCloseButtonElement.style.visibility != "visible") {
+                footerCloseButtonElement.style.visibility = "visible";
+            }
+        }
+        //
+        //
+        //
+        function nextPage() {
+            if (currentPage < 2) setPage(currentPage + 1);
+        }
+        //
+        //
+        //
+        function prevPage() {
+            if (currentPage > 0) setPage(currentPage - 1);
+        }
+        //
+        //
+        //
+        function htmlDecode(encodedText) {
+            var txt = document.createElement("textarea");
+            txt.innerHTML = encodedText;
+            return txt.value;
+        }
+        //
+        //
+        //
+        function fullscreenChange(event)
+        {
+            var fullscreenEnabled = (document.fullscreenElement ||
+                                     document.webkitFullscreenElement ||
+                                     document.mozFullScreenElement ||
+                                     document.msFullscreenElement) !== undefined
+            
+            if (fullscreen != fullscreenEnabled)
+            {
+                fullscreen = fullscreenEnabled;
+                var target = "gms2welcomepage:///resized?fullscreen="+fullscreen;
+                window.location.href = target;
+            }
+        }
+        //
+        //
+        //
+        function initialise(title, page1text, page2text, page3text, dontShow, close, tutorials, marketplace, support, community, downloadingRuntime) {
+            //
+            // BM : Cache elements
+            //
+            videoFrame = document.getElementById('videoFrame');
+            videoIframe = document.getElementById('videoiframe');
+            pips[0] = document.getElementById('pip1');
+            pips[1] = document.getElementById('pip2');
+            pips[2] = document.getElementById('pip3');
+            arrowLeft = document.getElementById('arrowLeft');
+            arrowRight = document.getElementById('arrowRight');
+            pageTextElement = document.getElementById('pageText');
+            welcomeImage = document.getElementById('welcomeImage');
+            footerCheckbox = document.getElementById('footerCheckbox');
+            footerDontShowTextElement = document.getElementById('dontShowText');
+            footerCloseButtonElement = document.getElementById('closeButton');
+            footerCloseElement = document.getElementById('closeText');
+            pageLinks = document.getElementById('pageLinks');
+            //
+            // BM : Decode text
+            //
+            pageText[0] = htmlDecode(page1text);
+            pageText[1] = htmlDecode(page2text);
+            pageText[2] = htmlDecode(page3text);
+            footerDontShowTextElement.textContent = htmlDecode(dontShow);
+            footerCloseElement.textContent = htmlDecode(close);
+            document.getElementById('titleText').textContent = htmlDecode(title);
+            document.getElementById('linkText0').textContent = htmlDecode(tutorials);
+            document.getElementById('linkText1').textContent = htmlDecode(marketplace);
+            document.getElementById('linkText2').textContent = htmlDecode(support);
+            document.getElementById('linkText3').textContent = htmlDecode(community);
+            //
+            // BM : Set the close button visibility
+            //
+            if (htmlDecode(downloadingRuntime) == "True")
+                footerCloseButtonElement.style.visibility = "hidden";
+            else
+                footerCloseButtonElement.style.visibility = "visible";
+            //
+            // BM : Force an update of the current page
+            //
+            setPage(currentPage);
+            //
+            // BM : Initialise the "Show on Startup" checkbox
+            //
+            footerCheckbox.checked = true;
+            //
+            // BM : Listen for resize events so we can communicate switching in/out of fullscreen mode
+            //
+            document.addEventListener("fullscreenchange", fullscreenChange);
+            document.addEventListener("webkitfullscreenchange", fullscreenChange);
+            document.addEventListener("mozfullscreenchange", fullscreenChange);
+            document.addEventListener("MSFullscreenChange", fullscreenChange);
+            //
+            // BM : Now that we are initilised, show the page
+            //
+            document.getElementsByTagName("html")[0].style.visibility = "visible";
+        }
+        //
+        //
+        //
+        function showOnStartupState(trueFalse) {
+            footerCheckbox.checked = (trueFalse == 'True');
+        }
+        //
+        //
+        //
+        function updateShowOnStartupPreference(chkbox) {
+            if (chkbox.checked) 
+                window.location.href = "gms2welcomepage:///showOnStartup";
+            else
+                window.location.href = "gms2welcomepage:///hideOnStartup";
+        }
+        //
+        //
+        //
+        function onKeyDown() {
+            if (event.keyCode == 39) nextPage();
+            else if (event.keyCode == 37) prevPage();
+        }
+        //
+        //
+        //
+        function onClose() {
+            videoIframe.src = "";
+            console.log("onClose");
+        }
+    </script>
+</head>
+
+<body onkeydown="onKeyDown()">
+    <div class="content">
+        <div class="rRightColumnImage"><img id="welcomeImage" class="welcomeImage" src="getting_started.png" height="380px"></div>
+        <div class="rHeader">
+            <div class="rHeaderText">
+                <div><img src="titleBulletpoint.png" alt="" height="21px" />
+                    <label id="titleText">${WelcomePage_InstallingTitle}</label>
+                </div>
+            </div>
+        </div>
+        <div class="rLeftColumn">
+            <div class="rContent">
+                <div class="rContentText">
+                    <label id="pageText">${WelcomePage_Page1Text}</label>
+                </div>
+            </div>
+            <div id="videoFrame" class="rVideoFrame">
+                <div id="pageLinks" class="rPageLinks">
+                    <a id="link0" href="gms2welcomepage:///https://www.yoyogames.com/learn/?utm_source=gms2" class="rContentTextHighlighted rGmLink"> <span class="icon-external_link rLinkArrowMargins"></span>
+                        <label id="linkText0" class="rWithPointer">${WelcomePage_Learn}</label>
+                    </a>
+                    <br>
+                    <a id="link1" href="gms2welcomepage:///https://marketplace.yoyogames.com/?utm_source=gms2" class="rContentTextHighlighted rGmLink"> <span class="icon-external_link rLinkArrowMargins"></span>
+                        <label id="linkText1" class="rWithPointer">${WelcomePage_Marketplace}</label>
+                    </a>
+                    <br>
+                    <a id="link2" href="gms2welcomepage:///http://help.yoyogames.com/hc/en-us/categories/204246668-GameMaker-Studio-2/?utm_source=gms2" class="rContentTextHighlighted rGmLink"> <span class="icon-external_link rLinkArrowMargins"></span>
+                        <label id="linkText2" class="rWithPointer">${WelcomePage_Support}</label>
+                    </a>
+                    <br>
+                    <a id="link3" href="gms2welcomepage:///https://forum.yoyogames.com/?utm_source=gms2" class="rContentTextHighlighted rGmLink"> <span class="icon-external_link rLinkArrowMargins"></span>
+                        <label id="linkText3" class="rWithPointer">${WelcomePage_Community}</label>
+                    </a>
+                    <br> </div>
+                <iframe id="videoiframe" style="background: #000000;" src="" frameborder="0" width="100%" height="100%" scrolling="auto" allowfullscreen> </iframe>
+            </div>
+        </div>
+        <div class="rNavBar">
+            <div class="rNavElements"><img id="arrowLeft" class="rNavArrow" onClick="prevPage();"><img id="pip1" class="rNavPip" onclick="setPage(0);"><img id="pip2" class="rNavPip" onclick="setPage(1);"><img id="pip3" class="rNavPip" onclick="setPage(2);"><img id="arrowRight" class="rNavArrow rFlip" onClick="nextPage();"></div>
+        </div>
+        <div class="rFooter">
+            <div id="footerContent" class="rFooterContent">
+                <input id="footerCheckbox" class="rFooterCheckbox" type="checkbox" onclick="updateShowOnStartupPreference(this)" />
+                <label class="rFooterCheckboxText" for="footerCheckbox"><span></span>
+                    <label id="dontShowText" for="footerCheckbox" style="cursor:pointer;">${WelcomePage_DontShow}</label>
+                </label>
+                <a id="closeButton" href="gms2welcomepage:///close">
+                    <button class="rFooterCloseButton">
+                        <label id="closeText" style="cursor:pointer;">Close</label>
+                    </button>
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,54 @@
+{	
+	"window_right_frame": {
+		colour: "#FFFFFFFF", 
+		focus_colour: "#FF5B9D03" 
+	},
+	
+	"window_bottom_left_frame": {
+		colour: "#FFFFFFFF", 
+		focus_colour: "#FF5B9D03"
+	},
+	
+	"window_bottom_frame": {
+		colour: "#FFFFFFFF", 
+		focus_colour: "#FF5B9D03"
+	},
+	
+	"window_bottom_right_frame": {
+		colour: "#FFFFFFFF", 
+		focus_colour: "#FF5B9D03"
+	},
+		
+	"dock_stack_style": {
+		colour: "#ff555555"
+	},
+		
+	"border_top": {
+		colour: "#FFFFFFFF", 
+		focus_colour: "#FF5B9D03"
+	},
+		
+	"window_title_left": {
+		colour: "#FFd0d0d0", 
+		focus_colour: "#FFe7e7e7"
+	},
+	
+	"window_title_right": {
+		colour: "#FF8D837F", 
+		focus_colour: "#FF92AB20"
+	},
+		
+	"window_title_fade": {
+		corner_colours: ["#FFd0d0d0", "#FF8D837F", "#FF8D837F", "#FFd0d0d0"], 
+		focus_corner_colours: ["#FFe7e7e7", "#FF92AB20", "#FF92AB20", "#FFe7e7e7"]
+	},
+		
+	"window_title_bookmark": {
+		colour: "#FF8D837F", 
+		focus_colour: "#FF92AB20"
+	},
+	
+	"blend_title_bar_label": {
+		colour: "#ff000000", 
+	},
+}

@@ -1,0 +1,31 @@
+{
+    "id": "d93919af-82fa-4594-88a3-e04725270bf0",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "d93919af-82fa-4594-88a3-e04725270bf0",
+    "children": [
+        "75e247f8-44dd-457e-a762-ed9b6d810970",
+        "f1966996-52ae-414c-8367-006308a08e98",
+        "7014f867-5525-4f4d-a69d-bedddab6f983",
+        "c3390e52-641d-4c84-b346-5e2326b1a1c8",
+        "6f1bda89-9682-4643-ae97-23e1314eddec",
+        "f726ccbd-6a48-45c4-b434-a02d18233522",
+        "cb813873-5d0a-42c9-b9e9-0681dc8b207a",
+        "bd77a77d-eaf1-4a39-a8ec-d7c6ec5ebd9f",
+        "452a8d54-0b3e-4ce1-a782-0755d9e3835e",
+        "9f4f9fcd-b382-468a-a4e2-2a793202191c",
+        "78e49e14-2c53-4a65-968a-6a13b1df893c",
+        "47ed07fc-fe62-4165-9e74-4d13d190be1d",
+        "95440d1e-6a38-42c9-8827-cf8809bf961b",
+        "b2a62775-e597-4c5c-b0c0-44d5dc0e3293",
+        "daeff509-4b0e-4973-9405-4b8798a84877",
+        "e0a977c6-9895-43ff-8289-71cf3d85d5d5",
+        "2887a766-48c7-487d-89de-2da01aaa00f4",
+        "0d012b13-c810-4c0f-82f6-98f3bab2a561",
+        "01cfc530-ae92-4f4d-bb95-c60e16830ecf"
+    ],
+    "filterType": "GMIncludedFile",
+    "folderName": "IETools",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

@@ -1,0 +1,30 @@
+{	
+	"layer_view": {
+		inherit_sublayers_colour: "#77cccccc", 
+		has_parent_colour: "#77777777"
+	},
+
+	"layercontents_label": {
+		colour: "#ff000000"
+	},
+
+	"instances_view": {
+		inherit_item_colour: "#77cccccc", 
+		has_parent_colour: "#77777777"
+	},
+		
+	"graphics_view": {
+		inherit_item_colour: "#77cccccc", 
+		has_parent_colour: "#77777777"
+
+	},
+
+	"ignore_checkbox_highlighted": {
+		colour: "#ffccaa9c"
+	},
+
+	"room_editor_room": {
+		mouse_status_colour_in: "#ff000000",
+		mouse_status_colour_out: "#ff555555"
+	}
+}

@@ -1,0 +1,266 @@
+{
+    "button_deactivated": {
+        icon_colour: "#40ffffff",
+		label_colour: "#80000000"
+    },
+
+    "button_reactivated": {
+        icon_colour: "#ffffffff",
+		label_colour: "#ff000000"
+    },
+
+	"close_button_up": {
+		up_tint: "#FFFFFFFF", 
+		down_tint: "#FF909090", 
+		mouseover_up_tint: "#FFFFFFFF", 
+		mouseover_down_tint: "#FF909090", 
+		up_focused_tint: "#FFFFFFFF", 
+		down_focused_tint: "#FF909090", 
+		mouseover_up_focused_tint: "#FFFFFFFF", 
+		mouseover_down_focused_tint: "#FF909090"
+	},
+	
+	"slider_grid": {
+		colour: "#00000000"
+	},
+
+	"slider_bar_fill_deactivated":
+	{
+		colour: "#FF666666",
+	},
+
+	"slider_bar_fill_reactivated":
+	{
+		colour: "#FF403733",
+	},
+
+	"slider_thumb_deactivated":
+	{
+		up_tint: "#00000000", 
+		up_focused_tint: "#00000000", 
+		down_focused_tint: "#00000000", 
+		mouseover_down_focused_tint: "#00000000"
+	},
+
+	"slider_thumb_reactivated":
+	{
+		up_tint: "#FF645B57", 
+		up_focused_tint: "#FFFFFFFF", 
+		down_focused_tint: "#FFA09389", 
+		mouseover_down_focused_tint: "#FFA09389"
+	},
+	
+	"slider": {
+		colour: "#00000000"
+	},
+	
+	"slider_bar_fill": {
+		colour: "#FF5b9d02"
+	},
+	
+	"slider_bar_fill_not_focused": {
+		colour: "#FF403733"
+	},
+	
+	"slider_thumb": {
+		up_tint: "#FF645B57", 
+		up_focused_tint: "#FFFFFFFF", 
+		down_focused_tint: "#FFA09389", 
+		mouseover_down_focused_tint: "#FFA09389"
+	},
+	
+	"slider_vertical_major_tick": {
+		colour: "#00000000"
+	},
+	
+	"slider_vertical_minor_tick": {
+		colour: "#00000000"
+	},
+	
+	"slider_horizontal_major_tick": {
+		colour: "#00000000"
+	},
+	
+	"slider_horizontal_minor_tick": {
+		colour: "#00000000"
+	},
+	
+	"link_label": {
+		colour: "#FFa16823"
+	},
+	
+	"link_label_hover": {
+		colour: "#FFE4A24C"
+	},
+	
+	"link_label_active": {
+		colour: "#FFFABB68"
+	},
+	
+	"label": {
+		colour:"#ff000000"
+	},
+	
+	"label_editbox": {
+		text_colour: "#ff000000", 
+		colour: "#00000000"
+	},
+	
+	"input_slider_bar": {
+		colour: "#ffff00ff"
+	},
+	
+	"input_slider_bar_fill": {
+		colour: "#00000000"
+	},
+
+	"deactivated_checkbox_label": {
+		colour: "#80000000"
+	},
+	
+	"checkbox_label": {
+		colour: "#ff000000"
+	},
+	
+	"checkbox_untick": {
+		colour: "#00000000"
+	},
+	
+	"heading_label": {
+		margin_colour: "#ffffaaaa", 
+		colour: "#ff000000"
+	},
+	
+	"heading2_label": {
+		margin_colour: "#ffaaffaa", 
+		colour: "#ff000000"
+	},
+	
+	"text_box_caret": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"text_box": {
+		text_colour: "#ff000000",
+		selection_colour: "#ffffd5c3"
+	},
+	
+	"reactivated_text_box": {
+		mouse_events: "true", 
+		text_colour: "#ff000000"
+	},
+
+	"deactivated_text_box": {
+		mouse_events: "false", 
+		text_colour: "#ff606060"
+	},
+
+	"reactivated_numeric_textbox": {
+		text_colour: "#ff000000"
+	},
+	
+	"reactivated_numeric_textbox_buttons": {
+		text_colour: "#ff000000"
+	},
+	
+	"list_box": {		
+		selection_colour: "#FFCCAA9C", 
+		mouse_over_colour: "#FFFFD5C3"
+	},
+	
+	"list_box_highlight": {
+		colour: "#ff802020"
+	},
+	
+	"list_box_mouseover": {
+		colour: "#ff806060"
+	},
+	
+	"deactivated_numeric_textbox": {
+		text_colour: "#ffaaaaaa"
+	},
+	
+	"test_image": {
+		colour: "#ffff0000"
+	},
+	
+	"combobox_text_box": {
+		colour: "#00000000", 
+		text_colour: "#ff000000", 
+		selection_colour: "#ff957665"
+	},	
+	
+	"progressbar_bar": {
+        background_colour: "#FFe7e7e7"
+	},		
+	
+	"tooltip_label": {
+		colour: "#FF000000"
+	},
+	
+	"tooltip_label_mirrored": {
+		colour: "#FF000000" 
+	},
+	
+	"tooltip_label_description": {
+		colour: "#FF000000"
+	},
+	
+	"tooltip_label_description_mirrored": {
+		colour: "#FF000000"
+	},
+	
+	"toggle_gadget_checkbox": {
+		colour: "#00000000"
+	},
+	
+	"toggle_gadget_checkbox_highlighted": {
+		colour: "#55000000"
+	},
+	
+	"sprite_selector": {		
+		drag_colour: "#FFEEEEBB"
+	},
+	
+	"toolbar_widget": {
+		colour: "#AAFFFFFF"
+	},
+	
+	"toolbar_widget_stack": {
+		colour: "#00008000"
+	},
+	
+	"toolbar_widget_stack_mini": {
+		colour: "#00008000"
+	},
+	"multiline_text_box": {
+        text_colour: "#FF000000",
+        selection_colour: "#FFA0A0A0"
+	},
+	"ide_version_label": {
+		colour: "#88000000"
+	},
+
+	"data_grid_column": {
+		colour: "#FFbfc0c0",
+		up_tint: "#FFbfc0c0", 
+		down_tint: "#FFbfc0c0", 
+		mouseover_up_tint: "#FFCFCFCF", 
+		mouseover_up_focused_tint: "#FFCFCFCF", 
+		mouseover_down_tint: "#FFC0C0C0", 
+		mouseover_down_focused_tint: "#FFC0C0C0", 
+		up_focused_tint: "#FFbfc0c0", 
+		down_focused_tint: "#FFbfc0c0"
+	},
+
+	"data_grid_column_splitter": {
+		colour: "#FFD8D8D8"
+	},
+
+    "data_grid_style": {
+        grid_line_colour: "#FFbfc0c0",
+		node_line_colour: "#FFbfc0c0",
+        text_colour: "#FF000000",
+        hilight_colour: "#FFc0b0b0",
+    }
+}

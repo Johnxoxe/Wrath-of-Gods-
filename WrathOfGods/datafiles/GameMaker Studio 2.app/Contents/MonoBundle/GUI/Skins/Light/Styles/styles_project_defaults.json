@@ -1,0 +1,8 @@
+{
+	"room_defaults" :
+	{
+		background_colour: "#FFC0C0C0",
+        grid_colour : "#80000000",
+		default_draw_colour: "#FF000000"
+	}
+}

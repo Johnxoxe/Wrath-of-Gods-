@@ -1,0 +1,47 @@
+{
+	"notification_label":
+	{
+		colour: "#FFA08B83"
+	},
+	
+	"notification_popup": {
+		colour: "#ffffffff"
+	},
+
+	"notification_listpanel": {
+		colour: "#FFFFFFFF"
+	},
+
+	"notification_frame": {
+		colour: "#FFFFFFFF"
+	},
+
+	"notification_frame_active": {
+		colour: "#FFFFFFFF"
+	},
+
+	"notification_split": {
+		colour: "#FF6A6867"
+	},
+
+
+	"notification_treeview": {
+		colour: "#FFFFFFFF"
+	},
+
+	"notification_treenode": {
+		colour: "#FFFFFFFF" 
+	},
+
+	"notification_treenode_expand": {
+		colour: "#FFFFFFFF"
+	},	
+
+	"notification_treenode_collapse": {
+		colour: "#FFFFFFFF"
+	},
+
+	"notification_treenode_neutral": {
+		colour: "#00000000"
+	}
+}

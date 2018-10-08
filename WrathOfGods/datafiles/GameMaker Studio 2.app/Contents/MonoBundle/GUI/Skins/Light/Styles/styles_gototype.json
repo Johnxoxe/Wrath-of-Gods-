@@ -1,0 +1,22 @@
+{
+
+	"label_item_recently_used": {
+		colour: "#FF8A4322"
+	},
+	
+	"label_goto_type": {
+		colour: "#AA5d5d5d"
+	},
+
+	"label_item_normal": {
+		colour: "#FF000000"
+	},
+
+	"item_highlight_color":  {
+		colour: "#FF1F6110"
+	},
+
+	"list_box_dial_inner_gototype": {
+		mouse_over_colour: "#ffccaa9c"
+	}
+}

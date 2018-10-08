@@ -1,0 +1,21 @@
+{	
+	"tileset_animation_frames": {
+		selected_animation_highlight: "#FFDDDDDD", 
+		invalid_animation_highlight: "#FF5555FF", 
+		colour: "#FFFFFFFF"
+	},
+
+	"tileset_animation_stack_panel": {
+		selected_animation_highlight: "#FFDDDDDD", 
+		invalid_animation_highlight: "#FF5555FF"
+	},
+	
+	"autotile_grid_container": {
+		selected_tile_highlight: "#FF0000FF", 
+		selected_entry_highlight: "#FFAAAAAA"
+	},
+		
+	"tileset_property_panel": {
+		colour: "#FFd9d9d9"
+	}
+}

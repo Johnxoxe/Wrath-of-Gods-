@@ -1,0 +1,15 @@
+{
+	"soundeditor_volume_group_box": {
+		colour: "#FFFFFFFF", 
+		focus_colour: "#FF5B9D03"
+	},
+
+	"soundeditor_volume_group_box_active": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"soundeditor_slider_grid_textbox_buttons": {
+		colour: "#00000000"
+	}
+		
+}

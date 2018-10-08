@@ -1,0 +1,37 @@
+{
+	"undo_button": {
+		down_tint: "#00000000", 
+		mouseover_up_tint: "#ffcccccc", 
+		mouseover_down_tint: "#00000000", 
+		up_focused_tint: "#ffd0d0d0", 
+		down_focused_tint: "#00000000", 
+		mouseover_up_focused_tint: "#ffd0d0d0", 
+		mouseover_down_focused_tint: "#00000000"
+	},
+	
+	"redo_button": {
+		down_tint: "#00000000", 
+		mouseover_up_tint: "#ffcccccc", 
+		mouseover_down_tint: "#00000000", 
+		up_focused_tint: "#ffd0d0d0", 
+		down_focused_tint: "#00000000", 
+		mouseover_up_focused_tint: "#ffd0d0d0", 
+		mouseover_down_focused_tint: "#00000000"
+	},
+	
+	"visible_checkbox": {
+		colour: "#00000000"
+	},
+	
+	"visible_checkbox_highlighted": {
+		colour: "#55000000"
+	},
+	
+	"lock_checkbox": {
+		colour: "#00000000"
+	},
+	
+	"lock_checkbox_highlighted": {
+		colour: "#55000000"
+	}
+}

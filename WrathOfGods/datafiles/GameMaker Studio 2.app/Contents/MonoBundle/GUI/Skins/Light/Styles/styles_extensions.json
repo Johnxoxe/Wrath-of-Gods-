@@ -1,0 +1,59 @@
+{
+	"extension_grid": {
+		colour: "#00000000" 
+	},
+	
+	"extension_tablegadget_row_odd": {
+		colour: "#00000000"
+	},
+	"extension_tablegadget_row_even": {
+		colour: "#FFdcdcdc"
+	},
+	"extension_tablegadget_row_highlighted": {
+		colour: "#FFccaa9c"
+	},
+	"extension_tablegadget_row_selected": {
+		colour: "#FFa99a94"
+	},
+		
+	"extension_tablegadget_header": {
+		colour: "#FFD5D5D5"
+	},
+
+	"extension_tablegadget_content": {
+		colour: "#FFFFFFFF"
+	},
+
+	"extension_list_box_auto": {
+		colour: "#FFFFFFFF", 
+		selection_colour: "#FF786B61", 
+		mouse_over_colour: "#FFA09389"
+	},
+
+	"extension_list_box": {
+		colour: "#FFFFFFFF" 
+	},
+	
+	"extension_list_box_highlight": {
+		colour: "#ff802020"
+	},
+	
+	"extension_list_box_mouseover": {
+		colour: "#ff806060"
+	},
+
+	"extension_bordered_list_box": {
+		colour: "#FFFFFFFF", 
+		selection_colour: "#FF786B61", 
+		mouse_over_colour: "#FFA09389"
+	},
+	
+	"extension_bordered_list_box_highlight": {
+		colour: "#ff802020"
+	},
+	
+	"extension_bordered_list_box_mouseover": {
+		colour: "#ff806060"
+	}
+
+}

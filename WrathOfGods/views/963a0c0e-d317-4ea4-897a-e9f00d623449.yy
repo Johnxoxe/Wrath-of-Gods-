@@ -1,0 +1,30 @@
+{
+    "id": "963a0c0e-d317-4ea4-897a-e9f00d623449",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "963a0c0e-d317-4ea4-897a-e9f00d623449",
+    "children": [
+        "1f898d7a-df4d-49f8-83ff-29769630c6b3",
+        "1d87fa59-e4e8-4bb1-8439-d4cda7d66b21",
+        "5bcc5de6-346e-4c69-91f7-73f43744e9ea",
+        "7e33b85f-824a-4a55-91ef-cff3b48fcb9d",
+        "59b5ffee-760c-44f8-97fd-4aea21a0087a",
+        "8f3bdeba-765a-4daf-a79c-8f949318c2d0",
+        "bb2ef530-e178-4403-9824-065b2886bc86",
+        "4f3fc594-8e04-40fa-8dcf-389259a0bb74",
+        "36e16696-26c9-4a0d-a16b-efb820e82f26",
+        "dc225979-ff36-4f00-a0f9-57f178b0c3f7",
+        "5cd3abb5-01ac-45f8-9d98-8f1406aefa68",
+        "f76ed610-f621-4075-a6c7-5458e39a32fd",
+        "fae53c71-a9e2-4353-bde5-d6e234ed19f1",
+        "2f0acb35-2e0a-44f0-ac31-aa6a64aa068c",
+        "85fb02c3-646c-4469-a404-a2bf5ece7e6b",
+        "bc6c2301-633c-4543-a310-d5ac883f9af8",
+        "e6adfe61-0810-4a52-a01c-25790758cd43",
+        "05fd705f-bea8-4eb5-9d7f-cb7db9aba7ff"
+    ],
+    "filterType": "GMIncludedFile",
+    "folderName": "ImageEditor",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

@@ -1,0 +1,20 @@
+{
+	"object_editor_group_box": {
+		colour: "#FFFFFFFF"
+	},
+	
+	
+	"event_item_stack_panel": {
+		colour: "#00000000"
+	},
+	
+	"object_editor_group_box_label": {
+		colour: "#FFFFFFFF"
+	},
+	
+	
+	"object_editor_treeview": {
+		colour: "#FFFFFFFF"
+	}
+	
+}

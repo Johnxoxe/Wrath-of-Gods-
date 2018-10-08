@@ -1,0 +1,33 @@
+{
+    "id": "c33634a6-bd7d-44f5-acbd-06b0e24c85b2",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "c33634a6-bd7d-44f5-acbd-06b0e24c85b2",
+    "children": [
+        "686a999a-8c4e-4701-b4a1-ff52c73545e2",
+        "54f27e20-d93c-49f7-881b-b9cc5c6915dd",
+        "fa5ee5f6-f4be-403b-916f-1ca861c5f532",
+        "a7b65011-83bf-455c-b514-345a532d9bab",
+        "706e4a80-5404-4733-878d-496ba14cae7c",
+        "15485bbc-bb92-450b-8919-e129f2d698bc",
+        "f6db9d93-1929-467b-8b7b-afa8d770038b",
+        "eba0e872-2ea1-4e4f-af88-f6d36553769e",
+        "d93919af-82fa-4594-88a3-e04725270bf0",
+        "76751c28-5e46-4d81-a77c-aa17ded6cf9d",
+        "0ead0cdb-941b-4446-ade1-b0e15b47989d",
+        "64fa6df9-02ef-4c1e-a459-32754f23cfaa",
+        "358e025d-4ff6-42e4-8c65-8069e1c2aecd",
+        "9273f828-3afb-4ef5-9018-fec45f8abad0",
+        "a38f2045-3918-4b7f-8e47-4aeec0af0a23",
+        "9601ae07-92ac-4135-8422-19dc1c30cd34",
+        "77d387a1-4732-4153-8e63-06f28b93ad7a",
+        "4189f06d-8bd0-4924-8bd7-03df97209acb",
+        "a0bccd0a-9389-45fe-97f9-9a6727d2e1f7",
+        "6bdbc6bd-af66-402e-968c-62a5e3c12791",
+        "3d7cc9cf-cfc7-49a9-a74f-1f661433a57b"
+    ],
+    "filterType": "GMIncludedFile",
+    "folderName": "Cursors",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

@@ -1,0 +1,22 @@
+{
+	"listviewexplorer": {
+		colour: "#FFFFFFFF", 
+	},
+	
+	"list_view": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"list_view_bar": {
+		colour: "#FFFFFFFF",
+	},
+	
+	"list_view_item": {
+		selection_colour: "#FF524A43", 
+		mouse_over_colour: "#FF69615B"
+	},
+	
+	"listviewexplorer_chrome_label": {
+		colour: "#ff222222",
+	}
+}

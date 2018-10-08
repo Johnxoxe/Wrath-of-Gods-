@@ -1,0 +1,22 @@
+{
+	
+	"sprite_editor_treeview": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"collision_mask_style": {
+		mask_colour: "#88000000", 
+		anchor_colour: "#FF000000", 
+		active_anchor_colour: "#FFFFFFFF", 
+		selected_anchor_colour: "#FFFFFFFF"
+	},
+	
+	"origin_marker_style": {
+		marker_colour: "#88FFFFFF", 
+		outline_colour: "#88000000"
+	},
+		
+	"slider_sprite_tolerance": {
+		colour: "#00000000"
+	}
+}

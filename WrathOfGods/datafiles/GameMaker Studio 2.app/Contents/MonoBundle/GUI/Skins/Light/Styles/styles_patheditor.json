@@ -1,0 +1,39 @@
+{
+	"path_text_box": {
+		selection_colour: "#80FF8080", 
+		text_colour: "#FFFFFFFF"
+	},
+	
+	"scaletofit_stack_panel": {
+		colour: "#00000000"
+	},
+	
+	"path_spline_editor": {
+		path_colour: "#FF0000FF", 
+		anchor_colour_normal: "#FF0000CC", 
+		anchor_colour_selected: "#FFFF0000", 
+		anchor_colour_active: "#FF00FFFF"
+	},
+	
+	"path_grid": {
+		ruler_colour: "#FFFFFFFF", 
+		colour: "#FF888888"
+	},
+	
+	"grid_columns_points": {
+		colour: "#FFD0D0D0"
+	},
+
+    "spline_default_colours": {
+        spline_line_colour : "#FF000000",
+        spline_line_highlight : "#FF000000",
+        spline_line_error :  "#FF0000FF",
+        spline_anchor_colour : "#FF606060",
+        spline_anchor_error :  "#FF000080",
+        spline_anchor_highlight : "#FFFFA500",
+        spline_anchor_error_highlight : "#0FF00A5FF",
+        spline_anchor_active : "#FF000000", 
+        spline_anchor_error_active : "#FF0000FF",
+        spline_mask : "#0FF808080"
+    }
+}

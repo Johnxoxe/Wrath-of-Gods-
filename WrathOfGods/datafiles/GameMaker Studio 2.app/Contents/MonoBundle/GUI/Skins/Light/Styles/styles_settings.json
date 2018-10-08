@@ -1,0 +1,17 @@
+﻿{
+    "settings_slider_thumb":{
+        up_tint : "#ff80ff80"
+    },
+    
+    "textstyle_group": {
+        colour:"#FFFFFFFF"
+    },
+
+	"radiogroup_style": {
+        colour:"#FFFFFFFF"
+    },
+
+	"combobox_style": {
+        colour:"#ffe3e3e3"
+    }
+}

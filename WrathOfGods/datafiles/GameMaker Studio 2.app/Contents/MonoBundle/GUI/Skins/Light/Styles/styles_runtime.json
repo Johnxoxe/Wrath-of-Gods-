@@ -1,0 +1,9 @@
+{
+	"runtime_selection_style": {
+        colour:"#ffd0d0d0",
+		runtime_grid_even_row:"#FFe3e3e3",
+		runtime_grid_odd_row:"#FFdcdcdc",
+		runtime_grid_selected:"#FFccaa9c",
+		runtime_grid_highlighted:"#FFA09389"
+    }
+}

@@ -1,0 +1,28 @@
+﻿{
+	"thumbnail_slider_grid": {
+		colour: "#00000000",
+		slider_style: "thumbnail_slider",
+		thumb_style: "thumbnail_slider_thumb",
+		slider_bar_style: "thumbnail_slider_bar",
+		slider_bar_fill_style: "thumbnail_slider_bar_fill"
+	},
+	
+	"thumbnail_slider": {
+		colour: "#FF8c8c8c"
+	},
+	
+	"thumbnail_slider_bar": {
+		colour: "#FF8c8c8c"
+	},
+	
+	"thumbnail_slider_bar_fill": {
+		colour: "#FF90aa18"
+	},
+	
+	"thumbnail_slider_thumb": {
+		up_tint: "#FFFFFFFF", 
+		mouseover_up_tint: "#FF645B57", 
+		down_focused_tint: "#FF645B57", 
+		mouseover_down_focused_tint: "#FF645B57"
+	}
+}

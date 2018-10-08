@@ -1,0 +1,9 @@
+{
+	"font_ttfpath_label": {
+		colour: "#FF000000", 
+	},
+
+    "font_range_selection":{
+        range_colour : "#FFA0A0A0"
+    }
+}

@@ -1,0 +1,153 @@
+{
+	"label_marketplace_title": {
+		colour: "#FF000000"
+	},
+
+	"link_label_asset_highlight":  {
+		colour: "#FF89591e"
+	},
+
+	"link_label_asset_highlight_hover":  {
+		colour: "#FFcde953"
+	},
+
+	"link_label_asset_highlight_active":  {
+		colour: "#FFcde953"
+	},
+
+	"gadget_treenode_marketplace": {
+		resource_added: "#ff4d8300", 
+		resource_not_added: "#ff000000"
+	},
+
+	"package_heading_label": {
+		colour: "#FFAAAAAA"
+	},
+	
+	"package_inner_panel": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"package_type_label": {
+		colour: "#FFAAAAAA"
+	},
+
+	"readonly_package_text_box": {
+		text_colour: "#ff626262"
+	},
+	
+	"inactive_tutorial_label": {
+		colour: "#FF6E6E6E"
+	},
+	
+	"inactive_heading_label": {
+		colour: "#ff6e6e6e"
+	},
+
+	"marketplace_grid": {
+		colour: "#FFd0d0d0"
+	},
+	
+	"marketplace_scrollpanel": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"marketplace_window": {
+		colour: "#ffd0d0d0"
+	},
+	
+	"marketplace_tablegadget_content": {
+		colour: "#00000000"
+	},
+	
+	"marketplace_tablegadget_row_highlighted": {
+		colour: "#ffccaa9c"
+	},
+
+	"marketplace_category_label": {
+		colour: "#ff000000"
+	},
+	
+	"marketplace_category_label_selected": {
+		colour: "#FF000000"
+	},
+	
+	"marketplace_tablegadget_row_selected": {
+		colour: "#ffa99a94"
+	},
+	
+	"marketplace_image": {
+		border_color: "#FF000000"
+	},
+	
+	"marketplace_image_selected": {
+		border_color: "#FFFFFFFF"
+	},
+	
+	"marketplace_stack_panel": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"marketplace_progressbar_frame": {
+		colour: "#00000000"
+	},
+	
+	"marketplace_rating_empty": {
+		icon_colour: "#FFFFFFFF"
+	},
+	
+	"marketplace_rating_user": {
+		icon_colour: "#FFFFFFFF"
+	},
+	
+	"marketplace_page_button": {
+		colour: "#00000000", 
+		up_focused_tint: "#00000000", 
+		down_focused_tint: "#00000000", 
+		mouseover_up_focused_tint: "#00000000", 
+		mouseover_down_focused_tint: "#00000000", 
+		mouseover_down_tint: "#00000000", 
+		mouseover_up_tint: "#00000000", 
+		down_tint: "#00000000", 
+		up_tint: "#00000000"
+	},
+
+	"label_marketplace_title_light": {
+		colour: "#FF000000"
+	},
+	
+	"label_marketplace_overview_text": {
+		colour: "#FF808080"
+	},
+	
+	"marketplace_grid_container": {
+		colour: "#FFFFFFFF"
+	},
+	
+	"marketplace_overview_screenshot": {
+		border_color: "#66FFFFFF"
+	},
+	
+	"marketplace_icon_button": {
+		up_tint: "#00000000", 
+		down_tint: "#00000000", 
+		mouseover_up_tint: "#FFFFFFFF", 
+		mouseover_down_tint: "#FFFFFFFF", 
+		up_focused_tint: "#00000000", 
+		down_focused_tint: "#00000000", 
+		mouseover_up_focused_tint: "#FFFFFFFF", 
+		mouseover_down_focused_tint: "#FFFFFFFF"
+	},
+	
+	"marketplace_update_icon_button": {
+		up_tint: "#00000000", 
+		down_tint: "#00000000", 
+		mouseover_up_tint: "#FFFFFFFF", 
+		mouseover_down_tint: "#FFFFFFFF", 
+		up_focused_tint: "#00000000", 
+		down_focused_tint: "#00000000", 
+		mouseover_up_focused_tint: "#FFFFFFFF", 
+		mouseover_down_focused_tint: "#FFFFFFFF", 
+		icon_colour: "#FF00AACC"
+	}
+}

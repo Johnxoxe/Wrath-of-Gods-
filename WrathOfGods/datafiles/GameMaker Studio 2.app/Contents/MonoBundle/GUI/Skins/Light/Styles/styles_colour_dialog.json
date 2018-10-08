@@ -1,0 +1,13 @@
+{	
+	"colour_slider_thumb": {
+		up_tint: "#FFFFFFFF", 
+		down_focused_tint: "#FFA09389", 
+		mouseover_down_focused_tint: "#FFA09389"
+	},
+	
+	"segmented_colour_slider_thumb": {
+		up_tint: "#FFFFFFFF", 
+		down_focused_tint: "#FFA09389", 
+		mouseover_down_focused_tint: "#FFA09389"
+	}
+}
