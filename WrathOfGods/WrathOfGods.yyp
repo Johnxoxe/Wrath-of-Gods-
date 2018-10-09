@@ -628,6 +628,25 @@
             }
         },
         {
+            "Key": "031e6e27-95d3-4244-9afd-311633516170",
+            "Value": {
+                "id": "b4c304dd-a0ac-48a0-9a8d-41f8ff374e62",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sPoseidonMinionWalk\/sPoseidonMinionWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0336f3d0-1547-4868-8e99-85e0234f9374",
             "Value": {
                 "id": "f49ee2e9-408e-41e9-84e0-6133185b5c1c",
@@ -1464,6 +1483,25 @@
             }
         },
         {
+            "Key": "08d42eda-90ac-455c-bd9c-f65a76985da3",
+            "Value": {
+                "id": "efa13ba8-6690-404e-920a-4c238bd48081",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sPoseidonMinionAttack\/sPoseidonMinionAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "08e694c4-7204-42ea-b444-adf38e224f41",
             "Value": {
                 "id": "f8d9ce71-8d68-43f0-af2f-c3836e8f5d0e",
@@ -1746,6 +1784,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Shaders\/standard_shader.fsh.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0ae70315-78ef-447d-8d82-db1638591c15",
+            "Value": {
+                "id": "946f8552-34ff-4299-af0f-bdb942551853",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/0ae70315-78ef-447d-8d82-db1638591c15.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -3212,6 +3269,25 @@
             }
         },
         {
+            "Key": "1402c80c-ec3d-43fa-a8d6-1c33d8796b51",
+            "Value": {
+                "id": "063c10fe-190f-4a3b-b46a-091150bf86f1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sAtlasMinionsWalk\/sAtlasMinionsWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "14180f75-28b0-40b0-85b4-96309cbc32c0",
             "Value": {
                 "id": "72430ae4-6a49-4c5e-bd2a-01d850f48f2e",
@@ -4314,6 +4390,25 @@
             }
         },
         {
+            "Key": "1a0e0225-2e7c-4950-91b0-e0ddb3213936",
+            "Value": {
+                "id": "678ada83-e914-43c5-94f1-2ff56a38c228",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sAtlasMinionsIdle\/sAtlasMinionsIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1a38651b-bd70-45bd-a609-b325c5f1bd52",
             "Value": {
                 "id": "0cc66465-14df-4fac-b4ec-9fb7ebbd28a0",
@@ -4656,6 +4751,25 @@
             }
         },
         {
+            "Key": "1c28b5ce-d0c6-4a6d-8d7e-910f18525cd2",
+            "Value": {
+                "id": "48d3cecd-170e-4643-a23b-43d83b8ca1d7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sHecatoncherisWalk\/sHecatoncherisWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1c4e778d-10c4-4eaf-9515-ae54cbe7510d",
             "Value": {
                 "id": "d2981ed4-dfbc-4e49-8704-6e5db12b7ab0",
@@ -4862,6 +4976,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Light\/Images\/Slider\/Thumbnail\/slider_arrow.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1d815843-de2a-4189-9a4f-1a27a11df92c",
+            "Value": {
+                "id": "6568d25b-8f77-4506-8b57-7c1d6b5c2528",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sHecatoncherisAttack\/sHecatoncherisAttack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -6043,6 +6176,25 @@
             }
         },
         {
+            "Key": "244f11fc-052f-4306-b62c-bd7d290e8bed",
+            "Value": {
+                "id": "89710ebb-6848-4c93-89ca-cec334eeff39",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/244f11fc-052f-4306-b62c-bd7d290e8bed.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "245fcf93-3421-4f82-ae3d-7deb54deedf9",
             "Value": {
                 "id": "7203a9a6-8ceb-474e-9b4f-b9eb5998d8d8",
@@ -6347,6 +6499,25 @@
             }
         },
         {
+            "Key": "255474e9-39c2-449c-acdc-36bfa2fc23d8",
+            "Value": {
+                "id": "61164a81-43f4-4d2a-9685-ffd2f3262905",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sHydraWalk\/sHydraWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "256f938c-9988-4602-8f06-f088e0f9e7c0",
             "Value": {
                 "id": "710eb161-6dac-4821-92fd-e033b82195d0",
@@ -6575,6 +6746,25 @@
             }
         },
         {
+            "Key": "260fac40-cfbc-41d7-95b9-c5efb2f6b2ba",
+            "Value": {
+                "id": "3f073ed5-53e5-40cf-baf4-6c6e67732130",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/260fac40-cfbc-41d7-95b9-c5efb2f6b2ba.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2620f3a8-0af8-47d1-a213-ce4b11b2214e",
             "Value": {
                 "id": "170a4bae-44a6-4ac6-b70d-37aa4e3d19ef",
@@ -6686,6 +6876,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Light\/Images\/StartPage\/banner.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "26bf6919-de9b-47b2-a829-be9bb6a9160d",
+            "Value": {
+                "id": "12cb0dcd-8e99-4de9-93b2-a4b3b313de48",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sPoseidonIdle\/sPoseidonIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -6857,6 +7066,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/DnDLibs\/YoYo Games\/Icons\/icon_dd_popstack.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "287b5a21-3ae7-4efa-9a64-92ae0402e430",
+            "Value": {
+                "id": "15f6b413-ebe1-4444-bb85-8c7024faf1c5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sHecatoncherisMinionAttack\/sHecatoncherisMinionAttack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -7104,6 +7332,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Dark\/Images\/Window\/cornergrip.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2aa6e7ff-7369-4238-a22c-7e5dbacf27b7",
+            "Value": {
+                "id": "32dfc9e2-174c-4824-88d1-8e50cd9d19ce",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/2aa6e7ff-7369-4238-a22c-7e5dbacf27b7.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -9710,6 +9957,25 @@
             }
         },
         {
+            "Key": "3b60831e-954b-4beb-9620-b702b578e1ab",
+            "Value": {
+                "id": "acfdb02a-4d10-4fb7-aa36-35a0806f1579",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sMedusaMinionsAttack\/sMedusaMinionsAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3b9be751-9dce-4392-9495-01eb7658ae51",
             "Value": {
                 "id": "33f23b15-cc2d-42cd-a1dd-92117bece70c",
@@ -10033,6 +10299,25 @@
             }
         },
         {
+            "Key": "3dcdb26c-55ec-4b46-a226-5781c83f22c1",
+            "Value": {
+                "id": "a98d9d17-71f3-485a-b7e6-59b260255dfb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sCyclopsMinionWalk\/sCyclopsMinionWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3dce3f3e-3c3e-4ac0-b590-1e501a4db071",
             "Value": {
                 "id": "028b6f52-f440-4219-9753-0ca257169d19",
@@ -10337,6 +10622,25 @@
             }
         },
         {
+            "Key": "3f44f96c-f982-42b0-9fb6-3582ad23edf4",
+            "Value": {
+                "id": "d79384f4-98dc-43b5-a1ac-baa6980bc573",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sCerberusMinionsIdle\/sCerberusMinionsIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3f64eff6-b3b9-43af-bced-eca7d80e25f5",
             "Value": {
                 "id": "ff7fe1b9-1d79-4664-933c-c57996182472",
@@ -10410,6 +10714,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Dark\/Layouts\/build_platform_device_editor.xml.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3f9c787c-ca4a-42b9-8157-cfcb968468fa",
+            "Value": {
+                "id": "62fe3419-5865-4e0f-92f4-803d8064a6c5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sChimeraAttack\/sChimeraAttack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -11268,6 +11591,25 @@
             }
         },
         {
+            "Key": "44db3610-00fe-41a8-ae53-45d071a746da",
+            "Value": {
+                "id": "c61acd34-2259-4ae2-b494-7273f145f28e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sAresIdle\/sAresIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "44f65826-d440-42b5-8e54-5ae0d4c5deb2",
             "Value": {
                 "id": "d193433a-f785-4160-aced-d88a715d1a26",
@@ -11762,6 +12104,25 @@
             }
         },
         {
+            "Key": "479a0b69-e5ea-46eb-8750-9224f5661c2d",
+            "Value": {
+                "id": "f40cce44-d400-43fc-a5f3-b6658aa62535",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sHydraMinionsWalk\/sHydraMinionsWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "47af6d12-fa4a-4d68-9e4b-7eaca17ddac4",
             "Value": {
                 "id": "6a41ada3-6c65-438c-8d40-de96e1f82f46",
@@ -12161,6 +12522,25 @@
             }
         },
         {
+            "Key": "49cdae30-97ee-4141-8c2e-dc086d7560ab",
+            "Value": {
+                "id": "b13a2952-e844-406b-b1bd-bfd2021daccd",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sChimeraWalk\/sChimeraWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "49ddc47f-aabf-47e3-9df9-7d92f8157bf2",
             "Value": {
                 "id": "c0d9d381-bc12-4ad2-b93c-f4cf077fdd30",
@@ -12424,6 +12804,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Light\/Images\/MaximizeButton.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4ad5ad2c-657d-4af7-9b05-cd9c87485ae8",
+            "Value": {
+                "id": "3ada888c-bda1-4f06-b534-cfb61d970bb9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/4ad5ad2c-657d-4af7-9b05-cd9c87485ae8.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -12769,6 +13168,25 @@
             }
         },
         {
+            "Key": "4c908230-0a03-4e41-b8ee-c8edae016433",
+            "Value": {
+                "id": "69457896-1e22-47bb-8736-0f70859a7e61",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sCerberusWalk\/sCerberusWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4c9490c6-7781-4164-9f86-04eb9dc0e69e",
             "Value": {
                 "id": "17ac2149-22d6-4f67-bcde-dee77b1effc9",
@@ -12918,6 +13336,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Dark\/Images\/SoundEditor\/play_button_states.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4dc4d97a-ac7d-4d0d-8478-61b84aeee1ad",
+            "Value": {
+                "id": "77497476-9fec-4d04-8a2a-6b4be60bb2f9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/4dc4d97a-ac7d-4d0d-8478-61b84aeee1ad.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -13111,6 +13548,25 @@
             }
         },
         {
+            "Key": "4e8c4731-1f72-44df-a94e-5c16f38f2a7c",
+            "Value": {
+                "id": "5fa75cdd-4dd4-489f-ad69-fe5f56061597",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sHydraMinionsAttack\/sHydraMinionsAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4ef20e67-e973-45d8-8762-86bec1c285e3",
             "Value": {
                 "id": "3e45e48d-ed1c-418b-9f80-bec81f7d9fff",
@@ -13282,6 +13738,25 @@
             }
         },
         {
+            "Key": "502ca3c0-6384-4d51-a90d-e89905f64f65",
+            "Value": {
+                "id": "0a87e51c-6297-415e-91af-9b19adb82d7e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/502ca3c0-6384-4d51-a90d-e89905f64f65.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "503be39d-5b16-423f-abc3-d46c2ac85531",
             "Value": {
                 "id": "1c3aaaef-e91c-47af-8842-de9161d87e5b",
@@ -13355,6 +13830,44 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Light\/Images\/DnD\/dnd_node_icon_dropdown.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "50963e74-001c-4d86-ac8e-e25bb45da970",
+            "Value": {
+                "id": "ed793ca4-5872-4bcc-990c-701d84218a65",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sHecatoncherisMinionWalk\/sHecatoncherisMinionWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "50ae0588-5ab7-465b-88ea-fc445e2700aa",
+            "Value": {
+                "id": "82792c9f-ee70-4845-b342-2f0b7c765bcd",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sOceanusWalk\/sOceanusWalk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -15315,6 +15828,25 @@
             }
         },
         {
+            "Key": "5b7e3336-5a20-4649-84da-7b4055114338",
+            "Value": {
+                "id": "2f5676c0-f504-4ed5-888f-b107d0e8b8a7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sPoseidonMinionIdle\/sPoseidonMinionIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5b842e9d-970d-4a56-94f5-c530b83a0b4b",
             "Value": {
                 "id": "7247bb9e-4526-437a-8d9b-92f3af0b8238",
@@ -15885,6 +16417,25 @@
             }
         },
         {
+            "Key": "6044bc95-55ae-4684-afd7-33a4301363eb",
+            "Value": {
+                "id": "a3e4b509-4b5d-4c2f-a432-118c2976416a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sAresAttack\/sAresAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "604c1d07-54c4-44b4-adc4-f53335ab6faa",
             "Value": {
                 "id": "3f9ca824-364c-4670-bacb-a3cd831633ab",
@@ -16148,6 +16699,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Dark\/Images\/RoomEditor\/icon_IE_fill.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6177fa91-834a-4f2c-b263-5ebdf6f8ade0",
+            "Value": {
+                "id": "2d31dc30-fa7a-4668-9e84-9c9beadb6a62",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/6177fa91-834a-4f2c-b263-5ebdf6f8ade0.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -16626,6 +17196,25 @@
             }
         },
         {
+            "Key": "63eb09d0-4612-4649-b802-48003203aa1d",
+            "Value": {
+                "id": "adc961cc-3b9f-4e8f-ae40-3ca807c2f57e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sMedusaMinionsWalk\/sMedusaMinionsWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "63fd12f1-826b-4601-903b-914c86abfe5d",
             "Value": {
                 "id": "efb2d718-ce72-4271-9c13-a848e3534094",
@@ -16699,6 +17288,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Light\/Images\/listviewexplorer_chrome.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "643af286-91fa-41c5-b9cb-eb668d3080a6",
+            "Value": {
+                "id": "d87b80c5-5d9f-4603-8713-e11a97f5bbdf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/643af286-91fa-41c5-b9cb-eb668d3080a6.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -17006,6 +17614,25 @@
             }
         },
         {
+            "Key": "66b20a69-428f-4567-8472-4064e687971d",
+            "Value": {
+                "id": "e9b47e96-4041-4591-a027-4c1bfccf2d28",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/66b20a69-428f-4567-8472-4064e687971d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "66f3ced1-ed0d-434c-9df9-5a5563f9e1a2",
             "Value": {
                 "id": "4bea656a-2fe4-4820-b25c-38462761788d",
@@ -17155,6 +17782,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Light\/Images\/ResourceTree\/newView.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "67b36b00-35d6-4b73-9d1d-2d2bb2e18862",
+            "Value": {
+                "id": "23b62e34-2026-4bd7-81ed-4218033395ea",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sAtlasMinionsAttack\/sAtlasMinionsAttack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -17516,6 +18162,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Dark\/Images\/Notifications\/notification_group_expanded.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6949e299-8858-47c2-af72-f746435a4012",
+            "Value": {
+                "id": "9e827e65-fd6f-4d7a-b40f-69aec9e79b26",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sChimeraIdle\/sChimeraIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -20882,6 +21547,25 @@
             }
         },
         {
+            "Key": "7cd52855-6d6b-4bbc-976f-214e87785a85",
+            "Value": {
+                "id": "8e293f37-2054-4c3e-8990-3f3d370a042a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sKronosIdle\/sKronosIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7cf488eb-6618-4138-93ee-d31c18e7a748",
             "Value": {
                 "id": "006823dc-f004-486a-b640-995a66df2e85",
@@ -21259,6 +21943,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Light\/Images\/Buttons\/icon_locked.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7f6beca2-660c-4e1e-85a9-c7804faed2df",
+            "Value": {
+                "id": "f58e8087-bbe6-40aa-974c-ad63ea7fdea6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/7f6beca2-660c-4e1e-85a9-c7804faed2df.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -21642,6 +22345,25 @@
             }
         },
         {
+            "Key": "81971404-e195-4483-8835-1c4aa068cf96",
+            "Value": {
+                "id": "8fedbb7d-6a33-426f-ba8b-97044258ad66",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sCyclopsMinionsIdle\/sCyclopsMinionsIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "81bfe939-7190-4ddc-8eeb-853fb87bdaed",
             "Value": {
                 "id": "81d59f6e-5517-41a2-a4e3-cfd07ae8ad0d",
@@ -21905,6 +22627,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/DnDLibs\/YoYo Games\/Icons\/icon_dd_pathspeed.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8328dbc9-bc37-4fd7-b209-1e9074b44d7a",
+            "Value": {
+                "id": "3ed2427d-f565-4912-abb7-72be5895fda8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/8328dbc9-bc37-4fd7-b209-1e9074b44d7a.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -22228,6 +22969,25 @@
                 ],
                 "resourcePath": "views\/854efd2c-34d2-4ee0-a2fc-2e2fc048acbd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "855644db-b2b6-4405-ab07-6a22745e8395",
+            "Value": {
+                "id": "82786500-3b8f-426b-98e0-51e43dacb7a2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sGaiaIdle\/sGaiaIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -22687,6 +23447,25 @@
             }
         },
         {
+            "Key": "87a8e27f-d001-4a41-9a16-d03c0e6594be",
+            "Value": {
+                "id": "66a7199b-1d58-406b-af83-86696e84597c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sHydraIdle\/sHydraIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "87ae936b-d2e7-44b3-9d07-a4b3cb21a27b",
             "Value": {
                 "id": "b5fb0017-61f8-40f6-8618-4c1785a9569b",
@@ -22760,6 +23539,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Dark\/Images\/Ticker\/Ticker0007.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8814cb83-5d81-45ca-8579-72cbe5ba70e7",
+            "Value": {
+                "id": "49b6483a-5b7b-493e-ac6a-af02d8f296aa",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sCerberusIdle\/sCerberusIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -23219,6 +24017,25 @@
             }
         },
         {
+            "Key": "8afd687d-0885-494f-96e3-5466e022be98",
+            "Value": {
+                "id": "ac3f3f27-5bab-406b-9614-e3ce7830a372",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sCerberusAttack\/sCerberusAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8afd7193-e3c9-4cc6-8ebb-4913e986dfc2",
             "Value": {
                 "id": "00d1dcbc-02a3-4fad-b813-79687a4d32bf",
@@ -23387,6 +24204,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/DnDLibs\/YoYo Games\/Icons\/icon_dd_pushontostack.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8c71c122-00ba-48df-a116-d0abbe102c12",
+            "Value": {
+                "id": "f7f88fb0-0b5f-4aa5-af04-91751e3a0406",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/8c71c122-00ba-48df-a116-d0abbe102c12.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -23938,6 +24774,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/DnDLibs\/YoYo Games\/Icons\/icon_dd_if_expression.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "901ea4b4-9fb6-41fc-ba11-65cafa1ee529",
+            "Value": {
+                "id": "48fe0d32-c574-491d-a1fd-cfc58c797c58",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sCyclopsAttack\/sCyclopsAttack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -25290,6 +26145,25 @@
             }
         },
         {
+            "Key": "9884821d-f5bf-4578-963f-4e5fe7867991",
+            "Value": {
+                "id": "c73ae179-5c7f-4052-aa7d-688ce88661c1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sAtlasIdle\/sAtlasIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9898d41b-faeb-4c74-99cf-2b0a29e1a1b4",
             "Value": {
                 "id": "7318a6cf-0a0d-456c-987e-a98274076042",
@@ -25515,6 +26389,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Light\/Images\/Buttons\/icon_IDE_canvas_size_up.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9a97029d-447a-4864-ba9f-d0aa592b4e78",
+            "Value": {
+                "id": "bc80bbad-ac2b-4f9f-ae19-32bbcfa1131c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/9a97029d-447a-4864-ba9f-d0aa592b4e78.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -25974,6 +26867,25 @@
             }
         },
         {
+            "Key": "9d2877e8-aade-4912-bdf0-56eb5b2110cb",
+            "Value": {
+                "id": "a016c810-c3f1-4dd5-8f58-0426b426c115",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/9d2877e8-aade-4912-bdf0-56eb5b2110cb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9d33d48b-cf2e-4735-9e73-5ca51e6eb56b",
             "Value": {
                 "id": "aee9de9b-2091-4001-9605-dcd25232ba59",
@@ -26259,6 +27171,25 @@
             }
         },
         {
+            "Key": "9f052aca-1ef9-4844-a3f7-9ed306ae2ca7",
+            "Value": {
+                "id": "3d151ded-8e63-4a85-8b22-0796ced9f637",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/9f052aca-1ef9-4844-a3f7-9ed306ae2ca7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9f475ec0-306c-4a56-b74f-a3643452f999",
             "Value": {
                 "id": "49b518da-6fc7-4c3c-8f4a-74cd096a7200",
@@ -26411,6 +27342,25 @@
             }
         },
         {
+            "Key": "a0ace541-805b-46ef-9689-ab736d1ded85",
+            "Value": {
+                "id": "faa3fd33-a335-491a-9431-49d7f120bb44",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sMedusaAttack\/sMedusaAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a0bccd0a-9389-45fe-97f9-9a6727d2e1f7",
             "Value": {
                 "id": "71c34dde-6ee2-4437-ac4f-cd0e7251f669",
@@ -26541,6 +27491,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/Xilium.CefGlue.dll.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a19fda97-6355-4115-a0b2-a8a13af49f77",
+            "Value": {
+                "id": "530ecc64-182a-450c-a86a-8e57d8215937",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/a19fda97-6355-4115-a0b2-a8a13af49f77.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -27361,6 +28330,25 @@
             }
         },
         {
+            "Key": "a7458a33-e016-434f-8306-3b9e1facb729",
+            "Value": {
+                "id": "227c1ba5-b95c-49c8-a611-6fc12a7e5e99",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sCyclopsMinionsAttack\/sCyclopsMinionsAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a74fc94f-9078-48cf-886a-7a1dad9c7bac",
             "Value": {
                 "id": "da144d31-4b98-4af7-ba02-91d760cfa525",
@@ -27532,6 +28520,25 @@
             }
         },
         {
+            "Key": "a807a983-2673-4c29-8112-09dba582de3f",
+            "Value": {
+                "id": "e9754cb3-b705-4d56-b66f-5f1e82fa4804",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sHecatoncherisMinionIdle\/sHecatoncherisMinionIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a809847a-9a94-48be-8a77-83963afe0e50",
             "Value": {
                 "id": "9d7cc363-eccb-4a8c-b5f2-fcb3aa221e99",
@@ -27605,6 +28612,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/DnDLibs\/YoYo Games\/Icons\/icon_dd_checkcollision.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a8a68b80-b772-45b3-9c90-dceb1980d321",
+            "Value": {
+                "id": "4a1d972e-e24c-4e2e-96ba-b7d80d6a2a2e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/a8a68b80-b772-45b3-9c90-dceb1980d321.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -27700,6 +28726,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Dark\/Images\/Test\/CloseAllWindowsIcon.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a9863485-b44e-4f06-9088-4f361f0fbe78",
+            "Value": {
+                "id": "1f24be0f-4e17-4b67-8bce-a60083846571",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sGaiaMinionsIdle\/sGaiaMinionsIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -28270,6 +29315,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Light\/Styles\/styles_menu.json.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "abbe222a-999f-433b-84fb-f5229cbad483",
+            "Value": {
+                "id": "e0d7d7f0-906a-418a-8266-7fcaf514f2cf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sGaiaWalk\/sGaiaWalk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -28878,6 +29942,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Dark\/Images\/Debugger\/icon_connection.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "afb8ade1-4b8a-4e20-a015-c1517efd7fad",
+            "Value": {
+                "id": "c63bc62c-b5ee-4cf2-a2f6-2fa2be62720d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/afb8ade1-4b8a-4e20-a015-c1517efd7fad.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -30002,6 +31085,25 @@
             }
         },
         {
+            "Key": "b70fae0e-458e-43d7-993f-12c8e64c84dd",
+            "Value": {
+                "id": "e13c34a4-6aba-4628-9fc3-82f2f1abc1d5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sKronosWalk\/sKronosWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b7260913-a689-4c99-8cd2-77cd98162972",
             "Value": {
                 "id": "4b75a00c-03be-49ef-a566-f71c012cbf34",
@@ -30208,6 +31310,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Dark\/Images\/SoundEditor\/icon_IDE_play.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b7dcfa73-874a-42d1-9d00-a338adbe0f3e",
+            "Value": {
+                "id": "bf6b3f9a-8724-4ca3-bdcb-78308e587858",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sCyclopsIdle\/sCyclopsIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -30512,6 +31633,25 @@
                 ],
                 "resourcePath": "objects\/oStage27\/oStage27.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b9d04dca-218f-4f20-b4ac-83a473ea37f6",
+            "Value": {
+                "id": "c983fa84-507f-40b8-a538-a3e37b6ba21b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sGaiaMinionsWalk\/sGaiaMinionsWalk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -31750,6 +32890,25 @@
             }
         },
         {
+            "Key": "bff2b8c3-bf8e-4994-a3b8-09822be1fe75",
+            "Value": {
+                "id": "7218f18b-a428-4bc4-bf4c-38e067297e4a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sCyclopsWalk\/sCyclopsWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c0024888-71dc-4dab-a2b5-410110b3cb5d",
             "Value": {
                 "id": "53232796-007f-454d-952d-215814484087",
@@ -31937,6 +33096,25 @@
                 ],
                 "resourcePath": "objects\/oStage15\/oStage15.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c11309e7-7c37-4c5b-b528-3e5df833ff31",
+            "Value": {
+                "id": "1aad969c-833f-4c44-aef7-e5bfe76bde95",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sHydraMinionsIdle\/sHydraMinionsIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -32529,6 +33707,25 @@
             }
         },
         {
+            "Key": "c3da5952-71f7-41ae-960b-689766f0bfe9",
+            "Value": {
+                "id": "7937b836-5232-4404-98b1-9e91187dcd76",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sCerberusMinionsWalk\/sCerberusMinionsWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c3eaf891-2037-46ef-b52f-d2f3f1792331",
             "Value": {
                 "id": "140149bf-2327-4f24-b67e-496ef40394fe",
@@ -33077,6 +34274,25 @@
                 ],
                 "resourcePath": "objects\/oSpear\/oSpear.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c6c01625-e7da-43db-bec4-61b503e10f5a",
+            "Value": {
+                "id": "e2884666-1169-4b9b-bb42-5f28b24b19dc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/c6c01625-e7da-43db-bec4-61b503e10f5a.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -33783,6 +34999,25 @@
             }
         },
         {
+            "Key": "cbc3cd23-55e8-43b1-a472-4c64e06e8ab3",
+            "Value": {
+                "id": "a2ede140-95ab-47b5-ac10-6da28456ebfb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sPoseidonWalk\/sPoseidonWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cbcbe013-a247-4fa2-9093-c408418c5071",
             "Value": {
                 "id": "4acfde07-672d-40ae-816d-d2fe83c8d378",
@@ -34106,6 +35341,25 @@
             }
         },
         {
+            "Key": "cdcfa2f0-5319-4165-8796-8e9e9f43938b",
+            "Value": {
+                "id": "fe454153-7375-404b-9c1c-84df00fda477",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sPoseidonAttack\/sPoseidonAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cde8459f-5fc5-40a5-8ea3-ead50516c8a0",
             "Value": {
                 "id": "1d3c6558-3ddd-4465-9172-55544eb68eb1",
@@ -34160,6 +35414,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Light\/Images\/StartPage\/watch.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ce47a09f-3499-48e6-9460-c9f7f8347173",
+            "Value": {
+                "id": "8fade336-f20a-4ba7-b0e7-72b60f1aecfb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sHecatoncherisIdle\/sHecatoncherisIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -35243,6 +36516,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Light\/Images\/RoomEditor\/icon_RE_closed_folder.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d47057d0-8b81-4f9b-ae8a-13f07262c7e0",
+            "Value": {
+                "id": "7a1164d7-15be-469e-b1c8-e3e9a42e629a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sHydraAttack\/sHydraAttack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -37184,6 +38476,25 @@
             }
         },
         {
+            "Key": "dee90892-a072-4a27-aa5f-4a8319ed240f",
+            "Value": {
+                "id": "187cb1be-b10d-4fd4-a6ef-7617e690f4a2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/dee90892-a072-4a27-aa5f-4a8319ed240f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "def3d309-2b5b-44b1-b95d-5e8359d4a303",
             "Value": {
                 "id": "864ca251-5e47-4f20-8cc3-184054dd2425",
@@ -37257,6 +38568,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Dark\/Images\/PathEditor\/ShiftDown.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "df269442-c6dd-4c63-abf9-02d8b7a71828",
+            "Value": {
+                "id": "d58313f8-bfd8-449e-9260-309c30ad1961",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sMedusaIdle\/sMedusaIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -38780,6 +40110,25 @@
             }
         },
         {
+            "Key": "e68dd4e2-4670-42ef-9a79-b3e47f7b95bf",
+            "Value": {
+                "id": "66026a0f-a584-4309-a9f3-825492456b68",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/e68dd4e2-4670-42ef-9a79-b3e47f7b95bf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e6997bd8-3220-4c29-9681-9c449dd734bc",
             "Value": {
                 "id": "e6a9a680-7028-4d6c-8ff7-56eb6835434d",
@@ -39293,6 +40642,25 @@
             }
         },
         {
+            "Key": "e9c06de3-777e-4900-b260-1c13a789d7a3",
+            "Value": {
+                "id": "3e2b5eb9-8ac0-40f5-9869-42443d25bdb1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sAresWalk\/sAresWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e9e4f3c7-dd9b-4be5-80c7-6c72db035142",
             "Value": {
                 "id": "8d998bb0-a2ce-480f-b742-15eb117d04b7",
@@ -39787,6 +41155,25 @@
             }
         },
         {
+            "Key": "ecd69124-7e54-4f57-96f3-a56b251d9756",
+            "Value": {
+                "id": "8ca85758-57d8-4da1-a401-82304e2373ce",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sAtlasAttack\/sAtlasAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ed1c1dc1-bc1a-499a-a450-b93429d6047a",
             "Value": {
                 "id": "fddc1e7a-29dc-43b3-bbaa-8d5e461e02a2",
@@ -40050,6 +41437,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Dark\/Images\/StartPage\/sp_progress_bar.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "eed65954-0468-46f3-b3be-f90605496c02",
+            "Value": {
+                "id": "99f31f8a-ee22-4a25-8f45-f36c161b82f4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/eed65954-0468-46f3-b3be-f90605496c02.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -41554,6 +42960,25 @@
             }
         },
         {
+            "Key": "f854c045-4197-41f1-9763-3730e0a68499",
+            "Value": {
+                "id": "f2ce9aab-9922-4d27-a781-387b26a3cfba",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/f854c045-4197-41f1-9763-3730e0a68499.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "f85657d1-4b31-450a-bd2a-f8e79e7126b6",
             "Value": {
                 "id": "afc5490e-8911-41ed-8fd4-d1df3b9fa761",
@@ -41608,6 +43033,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/DnDLibs\/YoYo Games\/Icons\/icon_dd_setalarm.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f8841671-089c-4614-b746-04b79a6aba04",
+            "Value": {
+                "id": "e501c11b-36b5-468d-9baf-57466c598d41",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sGaiaAttack\/sGaiaAttack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -41760,6 +43204,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/IDE.dll.config.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f95eedbf-f953-4095-a833-981e9da9d6f6",
+            "Value": {
+                "id": "abb0a218-ef95-431e-8c70-9dd6da3da40a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sMedusaMinionsIdle\/sMedusaMinionsIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -42292,6 +43755,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Light\/Images\/IDE_Toolbar\/icon_IDE_home.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fc996999-8eb5-4b77-972f-bf6043b011f2",
+            "Value": {
+                "id": "21a0a3e0-10e8-48ad-8acd-2443d83b66b9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sKronosAttack\/sKronosAttack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
