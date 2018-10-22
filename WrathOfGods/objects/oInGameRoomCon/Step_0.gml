@@ -34,6 +34,11 @@ else if (keyboard_check_pressed(ord("P")) and isPaused == true)
 }
 
 
+if ((_round mod 2) = 0){ stage = "enemysTurn"; }
+else { stage = "playersTurn"; }
+
+
+
 
 
 

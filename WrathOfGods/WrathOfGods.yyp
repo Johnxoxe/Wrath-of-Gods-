@@ -3098,6 +3098,25 @@
             }
         },
         {
+            "Key": "12473f2f-6ed7-4378-bf6f-d2b62c5f7c50",
+            "Value": {
+                "id": "98e8d2b2-fb5d-4203-92b9-d3f6eef155bb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oCamera\/oCamera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1271f3e4-a0b3-47af-a7fa-f7b7b57dc7a6",
             "Value": {
                 "id": "619af95e-ff4c-4e3f-b589-d69109478be9",
@@ -10693,7 +10712,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "scripts\/scr_bar\/scr_bar.yy",
+                "resourcePath": "scripts\/scrBar\/scrBar.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -12139,6 +12158,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Dark\/Layouts\/build_platform_preferences.xml.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "463ae8d2-b716-4ba6-8f6a-75a2e358dfe4",
+            "Value": {
+                "id": "f1392bb5-0d34-40ef-b341-8973ed475cd5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sDebugUpArrow\/sDebugUpArrow.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -15619,6 +15657,25 @@
             }
         },
         {
+            "Key": "58ff58ee-d8d2-4b78-b75d-bbba607613f0",
+            "Value": {
+                "id": "df176ba2-5c49-4f1e-91b0-2e7a534b83d6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sPause\/sPause.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "590ba055-bffb-498e-a462-139f9c7397d3",
             "Value": {
                 "id": "23d8b4fc-dcb2-4c71-951d-0d9e6099fdf0",
@@ -18523,6 +18580,25 @@
                 ],
                 "resourcePath": "sprites\/sZeusAttack\/sZeusAttack.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "697eae5f-5135-4905-bcbe-3c8cee93d3fe",
+            "Value": {
+                "id": "e8041169-6557-4707-bf6c-d5233aedf5fd",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/fRoundCount\/fRoundCount.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -23406,6 +23482,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/GUI\/Skins\/Dark\/Images\/Debugger\/button_break.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "858d3025-f3e1-4d69-a42b-708dc15c6af7",
+            "Value": {
+                "id": "7739dd61-54d5-44d4-85c5-ca716d3f56ff",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/858d3025-f3e1-4d69-a42b-708dc15c6af7.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -41478,6 +41573,25 @@
             }
         },
         {
+            "Key": "eadcc870-9da0-4a52-bc3a-dd8dfa6ea364",
+            "Value": {
+                "id": "243ce999-bd67-4dea-ba87-9454cda3c8ea",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/fStageLevel\/fStageLevel.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "eaeb0909-5e25-4271-a972-54135e8b065a",
             "Value": {
                 "id": "be55ba9e-8bbb-42d2-bac0-7b19e34e7b94",
@@ -42254,6 +42368,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/GameMaker Studio 2.app\/Contents\/MonoBundle\/SourceControlGit.dll.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f036f63d-e240-49c2-9812-7c89bcc87f9e",
+            "Value": {
+                "id": "873ff71b-5441-4996-af4c-786861707421",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/f036f63d-e240-49c2-9812-7c89bcc87f9e.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
